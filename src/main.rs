@@ -13,9 +13,14 @@ enum Layout {
 }
 
 fn main() {
-    let layout = Layout::AlphaLine;
-    let output_filename = "alpha_line.txt";
+    let list_length = 18230;
 
+    print_a_layout(Layout::Qwerty, "lists/qwerty.txt", list_length);
+    print_a_layout(Layout::AlphaSquare, "lists/alpha-square.txt", list_length);
+    print_a_layout(Layout::AlphaLine, "lists/alpha-line.txt", list_length);
+}
+
+fn print_a_layout(layout: Layout, output_filename: &str, list_length: usize) {
     let mut words_and_scores: Vec<(String, usize)> = vec![];
     let raw_word_list = make_vec_from_filenames(&[PathBuf::from("raw.txt")]);
     for word in raw_word_list {
@@ -26,23 +31,10 @@ fn main() {
     let mut f = File::create(output_filename).expect("Unable to create file");
     for (i, word_and_score) in words_and_scores.iter().enumerate() {
         writeln!(f, "{}", word_and_score.0).expect("Unable to write word to file");
-        if i == 18231 {
+        if i >= list_length {
             break;
         }
     }
-
-    println!(
-        "Distance between q and e is {}",
-        measure_distance_between_chars('q', 'e', layout)
-    );
-    println!(
-        "Distance between m and g is {}",
-        measure_distance_between_chars('m', 'g', layout)
-    );
-    println!(
-        "Distance between 'wax' is {}",
-        measure_distance_of_word("wax".to_string(), layout)
-    );
 }
 
 fn make_map(layout: Layout) -> HashMap<char, (usize, usize)> {
