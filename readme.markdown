@@ -6,7 +6,26 @@ The number of "clicks" a given word requires is equal to its length plus the num
 
 This project (the Rust code and the resulting word lists) is mostly a **proof of concept** to show how very specific word lists can aid users.
 
-## Usage (for generating word lists)
+## Example
+
+For example, given this keyboard layout (which I call simply `Qwerty`):
+```
+qwertyuiop
+asdfghjkl
+zxcvbnm
+```
+
+"wax" costs 7 clicks (1 per letter, plus 4 to navigate from the 'w' to the 'a' to the 'x'), whereas "lap" costs 21 clicks, since you've got to cross the keyboard twice. Thus, for user convenience, a word list made from this particular keyboard layout should prioritize "wax" over "lap", despite them being the same length.
+
+On a keyboard layout that's just all the letters in one row alphabetically (`abcdefghijklmnopqrstuvwxyz`), which I refer to as `AlphaLine`, the costs change: "wax" costs 48 clicks while "lap" only costs 29 clicks.
+
+## Assumptions
+
+This program assumes that if the user is, say, on the 'w', they can't move left twice to reach the 'p'. That'd be a neat optional feature though if you want to write a PR!
+
+## Usage (How to generate word lists yourself)
+
+Lists should be available in the `lists/` directory, but the Rust code that I used to generate these lists from a "raw" list is also available. Here's how to run that code (and overwrite the lists in `lists/`):
 
 1. [Install Rust](https://www.rust-lang.org/tools/install)
 2. `mkdir lists`
@@ -20,7 +39,7 @@ Each list in the `lists/` sub-directory corresponds to a different, common keybo
 
 **Guidance**: to minimize the number of "clicks" you must execute to enter a passphrase, use the word list that corresponds to the keyboard layout you're asked to enter the passphrase with.
 
-All layouts are orthogonal, which is both realistic (from the layouts I've seen on Smart TV apps) and simplifies travel-distance calculations.
+All layouts are ortholinear, which is both realistic (from the layouts I've seen on Smart TV apps) and simplifies travel-distance calculations.
 
 ### qwerty.txt
 
