@@ -7,11 +7,11 @@ The number of "clicks" a given word requires is equal to its length plus the num
 
 ## Usage (for generating word lists)
 
-1. Install Rust
+1. [Install Rust](https://www.rust-lang.org/tools/install)
 2. `mkdir lists`
 3. `cargo run --release`
 
-Created lists will be printed in to `lists/`.
+Locations of input file and created files are all hard-coded. Created lists will be printed in to `lists/`.
 
 ## Lists/layouts
 
