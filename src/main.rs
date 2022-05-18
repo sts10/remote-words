@@ -13,7 +13,7 @@ enum Layout {
 }
 
 fn main() {
-    let list_length = 18230;
+    let list_length = 7776;
 
     print_a_layout(Layout::Qwerty, "lists/qwerty.txt", list_length);
     print_a_layout(Layout::AlphaSquare, "lists/alpha-square.txt", list_length);
@@ -31,7 +31,7 @@ fn print_a_layout(layout: Layout, output_filename: &str, list_length: usize) {
     let mut f = File::create(output_filename).expect("Unable to create file");
     for (i, word_and_score) in words_and_scores.iter().enumerate() {
         writeln!(f, "{}", word_and_score.0).expect("Unable to write word to file");
-        if i >= list_length {
+        if i >= list_length - 1 {
             break;
         }
     }

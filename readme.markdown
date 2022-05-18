@@ -15,7 +15,7 @@ Created lists will be printed in to `lists/`.
 
 ## Lists/layouts
 
-Each list in the `lists/` sub-directory corresponds to a different, common keyboard layout.
+Each list in the `lists/` sub-directory corresponds to a different, common keyboard layout. All lists are 7,776-words long, which means that each word adds approximately 12.925 bits to a passphrase.
 
 **Guidance**: to minimize the number of "clicks" you must execute to enter a passphrase, use the word list that corresponds to the keyboard layout you're asked to enter the passphrase with.
 
@@ -49,11 +49,6 @@ abcdefghijklmnopqrstuvwxyz
 ## Disclaimer: Profane words
 
 These lists may have profane, indecent or otherwise objectionable words in them.
-
-## Entropy per word
-
-Each list has 18,231 words, which means that each word of a passphrases adds 14.154 bits of entropy to a passphrase.
-
 
 ## Where the words come from
 
