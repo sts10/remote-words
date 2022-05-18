@@ -4,6 +4,7 @@ Passphrase word lists optimized to reduce clicks of a TV remote when entering a 
 
 The number of "clicks" a given word requires is equal to its length plus the number of navigation clicks it takes to get from each letter to the next. This second measurement depends greatly on the **layout** of letters that the app/device presents to the user. To that end, this repo has a number of word lists in `lists/` sub-directory, each based on a different layout. The layouts are summarized below.
 
+This project (the Rust code and the resulting word lists) is mostly a **proof of concept** to show how very specific word lists can aid users.
 
 ## Usage (for generating word lists)
 
