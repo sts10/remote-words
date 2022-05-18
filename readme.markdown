@@ -21,7 +21,11 @@ On a keyboard layout that's just all the letters in one row alphabetically (`abc
 
 ## Assumptions
 
-This program assumes that if the user is, say, on the 'w', they can't move left twice to reach the 'p'. That'd be a neat optional feature though if you want to write a PR!
+- This program assumes that if the user is, say, on the 'w' of a qwerty keyboard, they can't move left 3 times to reach the 'o'. (That'd be a neat optional feature though if you want to write a PR!) The program assumes that the user would have to move 7 to the right to get to the 'o'.
+
+- The program doesn't calculate the distance between the last character of one word and the first character of the next word, since we can't know that until the passphrase is generated.
+
+- Warning: These word lists have **prefix words** in them. This means that, technically, users should place a punctuation or space between each word, e.g. `glee inch cut mixer spire dingy` or `lens-pleas-gird-treat-while-mutate`. The click cost of getting to and entering this in-between punctuation is **not** included in the program's calculations used to judge words and create the word lists. Again, this is project is more of a proof of concept.
 
 ## Usage (How to generate word lists yourself)
 
