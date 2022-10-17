@@ -31,11 +31,13 @@ On a keyboard layout that's just all the letters in one row alphabetically (`abc
 
 This program currently creates "raw" lists of about 11,000 words. **Warning**: these raw lists are not uniquely decodable and may contain profane words.
 
-To further refine these "raw" list into most usable lists, you might want to use Tidy and run a command like this:
+To further refine these "raw" lists into most usable lists, you might want to use [Tidy](https://github.com/sts10/tidy) and run a command like this:
 
 ```bash
-tidy -AAAA --whittle-to 7776 -KlL -r ../reject-words/bad-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/alpha-line.txt lists/raw/alpha-line.txt
+tidy -AAAA --whittle-to 7776 -KlL -m 3 -r ../reject-words/profane-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/alpha-line.txt lists/raw/alpha-line.txt
 ```
+
+Lists in the `lists/usable` directory should be uniquely decodable, so they can be used to generate passphrases without a separator between words. The lists were made uniquely decodable via a method I invented called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html), which is pretty untested.
 
 ### Generate raw word lists for 3 layout types
 
