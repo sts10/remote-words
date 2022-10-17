@@ -26,7 +26,7 @@ fn main() {
 
 fn print_a_layout(layout: Layout, output_filename: &str, list_length: usize) {
     let mut words_and_scores: Vec<(String, usize)> = vec![];
-    let raw_word_list = make_vec_from_filenames(&[PathBuf::from("raw.txt")]);
+    let raw_word_list = make_vec_from_filenames(&[PathBuf::from("source_list.txt")]);
     for word in raw_word_list {
         words_and_scores.push((word.to_string(), number_of_clicks(word.to_string(), layout)));
     }

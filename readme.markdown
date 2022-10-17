@@ -84,7 +84,7 @@ These lists may have profane, indecent or otherwise objectionable words in them.
 
 ## Where the source words come from
 
-The `raw.txt` word list -- which is used by the Rust code to create the shorter, optimized lists -- came from Google Books Ngram word frequency data (and since edited). See below for more information.
+The `source_list.txt` word list -- which is used by the Rust code to create the shorter, optimized lists -- came from Google Books Ngram word frequency data (and since edited). See below for more information.
 
 ## More word lists
 
