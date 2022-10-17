@@ -1238,7 +1238,6 @@ circa
 circle
 circuit
 circus
-cis
 cites
 cities
 citrus
@@ -2142,9 +2141,12 @@ edged
 edges
 edinburgh
 edison
+edit
+edited
 editing
 edition
 editions
+editor
 editors
 edmund
 edn
@@ -4810,7 +4812,6 @@ payne
 payoff
 payroll
 pays
-pcr
 pea
 peace
 peaceful
@@ -5102,7 +5103,6 @@ powerful
 powerfully
 powerless
 powers
-ppm
 pradesh
 praeger
 praise
