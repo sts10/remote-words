@@ -125,6 +125,7 @@ adult
 adults
 advent
 advice
+advise
 advisor
 advisors
 aerial
@@ -182,6 +183,7 @@ aims
 aires
 airline
 airlines
+airplane
 airport
 airports
 aisle
@@ -270,7 +272,7 @@ amplitude
 amused
 amusing
 analog
-anc
+analyst
 ancestor
 ancestors
 ancestry
@@ -279,7 +281,6 @@ anchored
 ancient
 anderson
 andre
-andrea
 anemia
 anew
 angel
@@ -390,6 +391,7 @@ artists
 artwork
 ascent
 asean
+ashamed
 ashes
 ashore
 asians
@@ -841,7 +843,6 @@ box
 boxes
 boxing
 boy
-boyle
 boys
 brady
 brain
@@ -892,7 +893,6 @@ brothers
 brought
 brow
 brown
-browne
 browning
 browse
 bruce
@@ -911,6 +911,7 @@ buddha
 buddhist
 buddy
 budget
+budgets
 buds
 buenos
 buffalo
@@ -1077,6 +1078,7 @@ castro
 casual
 cat
 catch
+catching
 category
 cathode
 cats
@@ -1268,6 +1270,7 @@ class
 classic
 classroom
 classrooms
+claude
 clause
 clay
 clayton
@@ -1299,6 +1302,7 @@ cling
 clinging
 clinic
 clinical
+clinically
 clinics
 clinton
 clip
@@ -1336,6 +1340,7 @@ coach
 coaches
 coaching
 coal
+coarse
 coast
 coasts
 coat
@@ -1566,7 +1571,6 @@ convince
 convinced
 convoy
 cook
-cooke
 cooked
 cookie
 cookies
@@ -1895,7 +1899,6 @@ delighted
 deliver
 delivers
 della
-delle
 delta
 delusion
 demand
@@ -2111,12 +2114,12 @@ distrust
 disturb
 disturbed
 ditch
-div
 dive
 divers
 divert
 divide
 divided
+dividend
 divides
 dividing
 divine
@@ -2150,7 +2153,6 @@ donald
 done
 donor
 donors
-dont
 doom
 doomed
 doppler
@@ -2245,7 +2247,6 @@ durable
 durch
 durham
 during
-durkheim
 dusk
 dust
 dusty
@@ -3030,7 +3031,6 @@ gently
 gentry
 genuine
 genus
-geol
 geological
 geology
 geometric
@@ -3047,7 +3047,6 @@ germany
 gertrude
 gesture
 gestures
-gets
 getting
 ghetto
 ghost
@@ -3254,6 +3253,7 @@ hard
 harder
 hardest
 harding
+hardy
 harlem
 harmless
 harmonic
@@ -3349,7 +3349,6 @@ herd
 herds
 hereby
 heresy
-herman
 hermann
 hero
 heroes
@@ -3608,6 +3607,7 @@ improved
 improves
 improving
 impulse
+impulses
 impurity
 inability
 incense
@@ -3782,7 +3782,6 @@ irony
 irving
 irwin
 isaac
-isabel
 isabella
 isbn
 ischemia
@@ -3986,7 +3985,6 @@ labelled
 labels
 labor
 laborers
-lacan
 lacked
 lacking
 lacks
@@ -4071,7 +4069,6 @@ lends
 length
 lens
 lenses
-leone
 leopold
 lesion
 lesions
@@ -4166,7 +4163,6 @@ lively
 liverpool
 lives
 living
-llc
 lloyd
 loaded
 loading
@@ -4441,7 +4437,6 @@ method
 metric
 metro
 metropolis
-mev
 mice
 mich
 michael
@@ -4507,7 +4502,6 @@ mistake
 mistress
 misuse
 mitchell
-mitral
 mix
 mixed
 mixing
@@ -4595,6 +4589,7 @@ morning
 mornings
 morocco
 morphine
+morphology
 morrison
 morse
 mortar
@@ -4725,6 +4720,7 @@ officers
 offices
 officials
 offset
+offshore
 offspring
 often
 ofthe
@@ -4843,6 +4839,7 @@ pacific
 pack
 package
 packaged
+packaging
 packed
 packet
 packets
@@ -4857,7 +4854,6 @@ pains
 paint
 painted
 paints
-pairs
 palace
 palaces
 pale
@@ -5071,7 +5067,6 @@ plagued
 plainly
 plains
 plaintiff
-plane
 planes
 planet
 planets
@@ -5185,6 +5180,7 @@ portrait
 portraits
 portray
 portugal
+positioned
 positions
 possess
 possessed
@@ -5457,7 +5453,6 @@ pulls
 pulmonary
 pulp
 pulpit
-pulses
 pump
 pumped
 pumping
@@ -5709,6 +5704,7 @@ rental
 rented
 rep
 repair
+repairs
 repeal
 repeat
 replace
@@ -5724,6 +5720,7 @@ reprint
 reset
 reside
 resign
+resigned
 resin
 resist
 resort
@@ -5841,6 +5838,7 @@ route
 router
 routes
 routine
+routinely
 routines
 routing
 routledge
@@ -6111,7 +6109,6 @@ shear
 sheath
 sheep
 sheer
-sheet
 sheets
 sheffield
 shelf
@@ -6120,8 +6117,8 @@ shelley
 shells
 shelter
 sheriff
+sherman
 sherry
-shi
 shield
 shields
 shift
@@ -6184,7 +6181,6 @@ shy
 siberia
 sibling
 siblings
-sich
 sicily
 sick
 sickle
@@ -6205,6 +6201,7 @@ signify
 sikh
 silence
 silent
+silently
 silica
 silicon
 silk
@@ -6285,6 +6282,7 @@ slide
 slides
 sliding
 slight
+slightest
 slightly
 slim
 slip
@@ -6940,6 +6938,7 @@ tempo
 tempted
 tempting
 tenant
+tenants
 tender
 tending
 tendon
@@ -7025,6 +7024,7 @@ though
 thought
 thoughts
 thread
+threads
 threat
 three
 threw
@@ -7520,6 +7520,7 @@ warmed
 warn
 warned
 warns
+warrior
 wars
 wary
 was
@@ -7640,7 +7641,6 @@ winter
 winters
 wipe
 wiped
-wird
 wire
 wired
 wires
@@ -7689,6 +7689,7 @@ workload
 workmen
 workplace
 works
+worksheet
 workshop
 workshops
 world
@@ -7765,7 +7766,6 @@ zeal
 zero
 zeus
 zhang
-zhou
 zinc
 zionist
 zip

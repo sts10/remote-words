@@ -121,6 +121,7 @@ advised
 adviser
 advisers
 aerial
+aerobic
 affair
 affairs
 affect
@@ -238,14 +239,12 @@ amounts
 amused
 analog
 anarchy
-anc
 ancestor
 ancestry
 anchor
 anchored
 andersen
 andre
-andrea
 andrew
 andrews
 anemia
@@ -844,7 +843,6 @@ box
 boxes
 boy
 boycott
-boyle
 boys
 bracket
 bradford
@@ -916,7 +914,6 @@ brothers
 brought
 brow
 brown
-browne
 browse
 browser
 bruce
@@ -938,6 +935,7 @@ buddha
 buddhist
 buddy
 budget
+budgeting
 budgets
 buds
 buenos
@@ -1041,6 +1039,7 @@ capitol
 caps
 capture
 captured
+captures
 carbon
 card
 cardiac
@@ -1208,6 +1207,7 @@ china
 chip
 chips
 chloride
+chlorine
 choice
 choices
 choir
@@ -1433,7 +1433,6 @@ conveyed
 conveys
 convoy
 cook
-cooke
 cooked
 cookie
 cookies
@@ -1558,6 +1557,7 @@ crowd
 crowded
 crowds
 crown
+crowned
 crude
 cruel
 cruelty
@@ -1751,6 +1751,7 @@ delayed
 delays
 delete
 deleted
+deletion
 delight
 delighted
 deliver
@@ -1758,7 +1759,6 @@ delivered
 delivers
 delivery
 della
-delle
 delta
 demand
 demanded
@@ -1865,6 +1865,7 @@ developed
 developer
 developing
 develops
+deviant
 device
 devices
 devil
@@ -1944,9 +1945,9 @@ diss
 dissent
 dist
 distress
+distressed
 disturb
 ditch
-div
 dive
 divers
 diverse
@@ -1978,7 +1979,6 @@ done
 donna
 donor
 donors
-dont
 doom
 doomed
 doorway
@@ -1995,6 +1995,7 @@ dots
 dotted
 double
 doubled
+doubling
 doubly
 doubt
 doubted
@@ -2680,6 +2681,7 @@ floral
 florence
 florida
 flour
+flourish
 flowed
 flower
 flowering
@@ -2933,7 +2935,6 @@ gentry
 genuine
 genus
 geoffrey
-geol
 geology
 geometry
 georg
@@ -3181,6 +3182,7 @@ hardness
 hardship
 hardware
 hardy
+harlem
 harmful
 harmless
 harmony
@@ -3301,6 +3303,7 @@ highlighted
 highlights
 highly
 highway
+highways
 hike
 hiking
 hills
@@ -3400,6 +3403,7 @@ humid
 humidity
 humility
 humor
+humorous
 humphrey
 hundred
 hundreds
@@ -3476,6 +3480,7 @@ immunol
 impact
 imperfect
 impetus
+implant
 implied
 implies
 implying
@@ -3662,7 +3667,6 @@ irritated
 irving
 irwin
 isaac
-isabel
 isbn
 islam
 isle
@@ -3672,6 +3676,7 @@ israeli
 issued
 issuer
 issuing
+italics
 italy
 item
 items
@@ -3858,7 +3863,6 @@ kuhn
 kumar
 label
 labor
-lacan
 lacked
 lacking
 lacks
@@ -3954,7 +3958,6 @@ lengths
 lengthy
 lens
 lenses
-leone
 leopold
 lesion
 lesions
@@ -4054,7 +4057,6 @@ lively
 liverpool
 lives
 living
-llc
 lloyd
 load
 loaded
@@ -4236,6 +4238,7 @@ mask
 masked
 masks
 mason
+masonry
 massacre
 massage
 masses
@@ -4333,7 +4336,6 @@ method
 methods
 metric
 metro
-mev
 meyer
 mice
 mich
@@ -4399,7 +4401,6 @@ mist
 mistress
 misuse
 mitchell
-mitral
 mix
 mixed
 mixing
@@ -4920,6 +4921,7 @@ pink
 pinned
 pins
 pioneer
+pioneering
 pioneers
 pious
 pipe
@@ -4956,7 +4958,6 @@ planner
 planners
 planning
 plans
-plant
 planted
 planters
 plants
@@ -5099,6 +5100,7 @@ powell
 power
 powerful
 powerfully
+powerless
 powers
 ppm
 pradesh
@@ -6100,11 +6102,11 @@ shell
 shelley
 shells
 shelter
+sheltered
 shelves
 sheriff
 sherman
 sherry
-shi
 shield
 shields
 shift
@@ -6166,9 +6168,9 @@ shut
 shuttle
 shy
 sibling
-sich
 sicily
 sick
+sidewalk
 sie
 siege
 sierra
@@ -6226,7 +6228,6 @@ ski
 skies
 skiing
 skill
-skilled
 skills
 skin
 skinned
@@ -6277,6 +6278,7 @@ small
 smart
 smashed
 smell
+smelled
 smells
 smile
 smiled
@@ -6325,6 +6327,7 @@ solomon
 solution
 solvent
 solving
+someday
 song
 songs
 sont
@@ -6565,7 +6568,6 @@ streets
 strength
 strengths
 strenuous
-stressed
 stresses
 stressful
 stressing
@@ -6623,6 +6625,7 @@ sub
 subdued
 subject
 sublime
+submerged
 submit
 submitted
 subset
@@ -7263,6 +7266,7 @@ unmarried
 unnecessary
 unrest
 unseen
+unskilled
 unsure
 until
 unto
@@ -7452,7 +7456,6 @@ waits
 waiver
 waking
 wales
-walk
 walked
 walker
 walking
@@ -7520,7 +7523,6 @@ waves
 waving
 wax
 wayne
-ways
 weak
 weaken
 weaker
@@ -7639,7 +7641,6 @@ winter
 winters
 wipe
 wiped
-wird
 wire
 wired
 wires
@@ -7765,7 +7766,6 @@ zeal
 zero
 zeus
 zhang
-zhou
 zinc
 zip
 zone

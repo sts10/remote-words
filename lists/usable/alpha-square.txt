@@ -75,7 +75,6 @@ activist
 activists
 activity
 actress
-actual
 acute
 acutely
 adapt
@@ -264,14 +263,12 @@ analog
 analogy
 analyst
 anatomy
-anc
 ancestor
 anchor
 anchored
 ancient
 anderson
 andre
-andrea
 andrew
 andrews
 anemia
@@ -437,6 +434,7 @@ assuring
 asthma
 astronomy
 asylum
+athletic
 atkinson
 atlas
 atom
@@ -657,6 +655,7 @@ begged
 begging
 begin
 beginning
+beginnings
 begins
 begun
 behalf
@@ -867,7 +866,6 @@ box
 boxes
 boxing
 boycott
-boyle
 boys
 brace
 brady
@@ -921,7 +919,6 @@ brother
 brought
 brow
 brown
-browne
 browse
 bruce
 bruno
@@ -1021,6 +1018,7 @@ calves
 cam
 camel
 camera
+cameras
 cameron
 camp
 campaign
@@ -1589,7 +1587,6 @@ convinced
 convincing
 convoy
 cook
-cooke
 cooked
 cookie
 cookies
@@ -1644,6 +1641,7 @@ countered
 counters
 countess
 counties
+countless
 country
 county
 coup
@@ -1923,7 +1921,6 @@ delighted
 deliver
 delivered
 della
-delle
 delta
 delusion
 demand
@@ -2125,7 +2122,6 @@ district
 distrust
 disturb
 ditch
-div
 dive
 divers
 divert
@@ -2170,7 +2166,6 @@ donations
 done
 donor
 donors
-dont
 doom
 doomed
 doorway
@@ -2469,7 +2464,6 @@ episode
 epoch
 epstein
 eqs
-equal
 equals
 equated
 equation
@@ -2610,6 +2604,7 @@ factor
 factors
 factory
 facts
+factual
 faculty
 fade
 faded
@@ -2955,6 +2950,7 @@ friction
 friday
 fried
 friedman
+friedrich
 friend
 fringe
 fritz
@@ -3058,10 +3054,11 @@ gentle
 gentry
 genuine
 genus
-geol
+geology
 georg
 george
 georgia
+gerald
 germ
 german
 germanic
@@ -3157,6 +3154,7 @@ grade
 graded
 grades
 grading
+graft
 grain
 grains
 grand
@@ -3165,6 +3163,7 @@ grants
 grape
 graph
 graphic
+graphs
 grasp
 grass
 grave
@@ -3726,6 +3725,7 @@ interfere
 interim
 interior
 intern
+interrupt
 intimacy
 intimate
 into
@@ -3754,6 +3754,7 @@ invoked
 invoking
 involve
 involved
+inward
 iodine
 ionic
 irene
@@ -3765,7 +3766,6 @@ irrigation
 irving
 irwin
 isaac
-isabel
 isabella
 isbn
 islam
@@ -3969,7 +3969,6 @@ labeling
 labelled
 labels
 labor
-lacan
 lacked
 lacking
 lacks
@@ -3999,6 +3998,7 @@ later
 latest
 latin
 latino
+latitude
 latter
 lattice
 laugh
@@ -4056,7 +4056,6 @@ lengthy
 lens
 lenses
 leonard
-leone
 leopold
 lesbian
 lesion
@@ -4150,7 +4149,6 @@ lively
 liverpool
 lives
 living
-llc
 lloyd
 loaded
 loading
@@ -4449,7 +4447,7 @@ meter
 method
 metric
 metro
-mev
+meyer
 mice
 mich
 michael
@@ -4580,6 +4578,7 @@ monthly
 months
 montreal
 monument
+monuments
 mood
 moods
 moody
@@ -4914,6 +4913,7 @@ passion
 passions
 passive
 passport
+password
 past
 pasta
 paste
@@ -5394,6 +5394,7 @@ proto
 protocol
 proton
 protons
+prototype
 proud
 proudly
 proven
@@ -5532,7 +5533,6 @@ rapid
 rapids
 rapport
 rare
-ras
 rat
 rate
 rated
@@ -6071,6 +6071,7 @@ seine
 seismic
 seize
 seized
+seizure
 seldom
 select
 selects
@@ -6165,7 +6166,6 @@ shells
 sheriff
 sherman
 sherry
-shi
 shield
 shields
 shift
@@ -6227,7 +6227,6 @@ shy
 siberia
 sibling
 siblings
-sich
 sicily
 sick
 sickle
@@ -6745,6 +6744,7 @@ suitable
 suite
 suited
 sulfur
+sullivan
 sultan
 sum
 summary
@@ -7242,7 +7242,6 @@ twisting
 two
 tying
 tyler
-type
 typed
 types
 typical
@@ -7267,6 +7266,7 @@ undo
 undue
 unduly
 uneasy
+unequal
 uneven
 unfair
 unhappy
@@ -7512,6 +7512,7 @@ washed
 washing
 waste
 wasted
+wastes
 wasting
 watch
 watched
@@ -7644,7 +7645,6 @@ winter
 winters
 wipe
 wiped
-wird
 wire
 wired
 wireless
@@ -7756,6 +7756,7 @@ yoke
 you
 young
 younger
+youngest
 your
 yours
 youth
@@ -7764,7 +7765,6 @@ zeal
 zero
 zeus
 zhang
-zhou
 zimbabwe
 zinc
 zionist
