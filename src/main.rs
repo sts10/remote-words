@@ -13,15 +13,19 @@ enum Layout {
 }
 
 fn main() {
-    let list_length = 11000;
+    let raw_list_length = 18000;
 
-    print_a_layout(Layout::Qwerty, "lists/raw/qwerty.txt", list_length);
+    print_a_layout(Layout::Qwerty, "lists/raw/qwerty.txt", raw_list_length);
     print_a_layout(
         Layout::AlphaSquare,
         "lists/raw/alpha-square.txt",
-        list_length,
+        raw_list_length,
     );
-    print_a_layout(Layout::AlphaLine, "lists/raw/alpha-line.txt", 11000);
+    print_a_layout(
+        Layout::AlphaLine,
+        "lists/raw/alpha-line.txt",
+        raw_list_length,
+    );
 }
 
 fn print_a_layout(layout: Layout, output_filename: &str, list_length: usize) {
