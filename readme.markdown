@@ -6,6 +6,8 @@ The number of "clicks" a given word requires is equal to its length plus the num
 
 This project (the Rust code and the resulting word lists) is mostly a **proof of concept** to show how very specific word lists can aid users.
 
+Here's [a blog post](https://sts10.github.io//2022/10/24/a-good-netflix-password.html) I wrote explaining my inspiration and process of this project.
+
 ## Example
 
 For example, given this keyboard layout (which I call simply `Qwerty`):
