@@ -27,27 +27,30 @@ On a keyboard layout that's just all the letters in one row alphabetically (`abc
 
 - The program doesn't calculate the distance between the last character of one word and the first character of the next word, since we can't know that until the passphrase is generated.
 
-- Warning: These word lists have **prefix words** in them. This means that, technically, users should place a punctuation or space between each word, e.g. `glee inch cut mixer spire dingy` or `lens-pleas-gird-treat-while-mutate`. The click cost of getting to and entering this in-between punctuation is **not** included in the program's calculations used to judge words and create the word lists. Again, this is project is more of a proof of concept.
+<!-- - Warning: These word lists have **prefix words** in them. This means that, technically, users should place a punctuation or space between each word, e.g. `glee inch cut mixer spire dingy` or `lens-pleas-gird-treat-while-mutate`. The click cost of getting to and entering this in-between punctuation is **not** included in the program's calculations used to judge words and create the word lists. Again, this is project is more of a proof of concept. -->
 
 ## Usage (How to generate word lists yourself)
 
 This program currently creates "raw" lists of about 11,000 words. **Warning**: these raw lists are not uniquely decodable and may contain profane words.
 
-To further refine these "raw" lists into most usable lists, you might want to use [Tidy](https://github.com/sts10/tidy) and run a command like this:
+To refine these "raw" lists into more usable word lists, I then used another program I wrote called [Tidy](https://github.com/sts10/tidy) and ran a command like this:
 
 ```bash
 tidy -AAAA --whittle-to 7776 -KlL -m 3 -r ../reject-words/profane-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/alpha-line.txt lists/raw/alpha-line.txt
 ```
 
-Lists in the `lists/usable` directory should be uniquely decodable, so they can be used to generate passphrases without a separator between words. The lists were made uniquely decodable via a method I invented called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html), which is pretty untested.
+Among other things, this Tidy command uses an algorithm I wrote called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) to make the  lists **uniquely decodable**. Effectively this means that words from the resulting list can be safely combined without a delimiter (like `seasonreadilyrentallunarpioneerbolted`). 
 
-### Generate raw word lists for 3 layout types
+You can find "usable", uniquely decodable lists in the `lists/usable` directory. 
+
+### Generate raw word lists for 3 different layout types
 
 1. [Install Rust](https://www.rust-lang.org/tools/install)
-2. `mkdir lists && mkdir lists/raw`
-3. `cargo run --release`
+2. Clone this repo and `cd` into this directory.
+3. `mkdir lists && mkdir lists/raw`
+4. `cargo run --release`
 
-Locations of input file and created files are all hard-coded. Created lists will be printed in to `lists/raw/`.
+Locations of input file and created files are all hard-coded. Created lists will be printed to `lists/raw/`.
 
 ## Lists/layouts
 
