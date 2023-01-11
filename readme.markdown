@@ -1,6 +1,6 @@
 # Remote Words
 
-Passphrase word lists optimized to reduce clicks of a TV remote when entering a passphrase, including travel distance between letters.
+Passphrase word lists optimized to reduce clicks of a TV remote (or video game console controller) when entering a passphrase, including travel distance between letters.
 
 The number of "clicks" a given word requires is equal to its length plus the number of navigation clicks it takes to get from each letter to the next. This second measurement depends greatly on the **layout** of letters that the app/device presents to the user. To that end, this repo has a number of word lists in `lists/usable/` sub-directory, each based on a different layout. The layouts are summarized below.
 
