@@ -253,7 +253,6 @@ ammonia
 amnesia
 amnesty
 among
-amongst
 amorphous
 amount
 amounted
@@ -369,6 +368,7 @@ around
 arouse
 arrest
 arrests
+arrive
 arrogant
 arrows
 arsenic
@@ -773,7 +773,6 @@ bluntly
 blur
 blurred
 blush
-blvd
 boast
 boat
 boats
@@ -1213,7 +1212,6 @@ childbirth
 childhood
 childish
 children
-chile
 chili
 chill
 chilled
@@ -1745,6 +1743,7 @@ cursing
 cursor
 curve
 curved
+curves
 cushion
 cushions
 custom
@@ -2382,6 +2381,7 @@ embodied
 embryo
 emerge
 emerged
+emerging
 eminence
 eminent
 emissions
@@ -2444,7 +2444,6 @@ enlisted
 enormous
 enormously
 enough
-enquiry
 enraged
 enrich
 enriched
@@ -3533,6 +3532,7 @@ identical
 identified
 identify
 identity
+ideological
 ideologies
 ideology
 idiom
@@ -3920,10 +3920,7 @@ knowing
 knowledge
 knows
 label
-labeled
 labeling
-labelled
-labelling
 labels
 labor
 labored
@@ -3987,7 +3984,6 @@ learned
 learner
 learning
 learns
-learnt
 leasing
 least
 leave
@@ -4288,6 +4284,7 @@ meal
 meals
 mean
 meaning
+meanings
 means
 meant
 measure
@@ -4339,7 +4336,6 @@ mere
 merely
 merger
 mergers
-merging
 merit
 merits
 merry
@@ -5649,6 +5645,7 @@ renounce
 renowned
 rented
 repaid
+repair
 repeal
 repent
 replace
@@ -5686,6 +5683,7 @@ result
 results
 return
 returned
+returning
 returns
 reunion
 reuse
@@ -6527,6 +6525,7 @@ startup
 stat
 state
 stated
+static
 status
 stay
 stays
@@ -6842,6 +6841,7 @@ sworn
 swung
 syllable
 symbol
+symbolic
 symbols
 symmetry
 symphony
@@ -6984,6 +6984,7 @@ they
 thick
 thickened
 thicker
+thickness
 thief
 thigh
 thighs
@@ -7256,7 +7257,6 @@ turf
 turkey
 turmoil
 turner
-turning
 turnout
 turnover
 turtle

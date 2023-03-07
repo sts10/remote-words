@@ -241,7 +241,6 @@ ammonia
 ammunition
 amnesty
 among
-amongst
 amorphous
 amount
 amounted
@@ -798,7 +797,6 @@ blunt
 blur
 blurred
 blush
-blvd
 boarded
 boast
 boasted
@@ -1226,7 +1224,6 @@ child
 childhood
 childish
 children
-chile
 chili
 chill
 chilled
@@ -3183,6 +3180,7 @@ grass
 grassy
 grave
 gray
+grease
 great
 greedy
 green
@@ -3286,6 +3284,7 @@ happily
 harbor
 hard
 harder
+hardest
 hardy
 harmed
 harmonic
@@ -3885,10 +3884,7 @@ know
 knowing
 knows
 label
-labeled
 labeling
-labelled
-labelling
 labels
 labor
 labored
@@ -3957,7 +3953,6 @@ leaps
 leapt
 learn
 learns
-learnt
 leases
 least
 leather
@@ -4304,6 +4299,7 @@ medal
 media
 medial
 median
+mediate
 mediator
 medical
 medicine
@@ -5482,6 +5478,7 @@ reaction
 reactions
 reactor
 reacts
+readable
 reader
 readers
 reading
@@ -5678,6 +5675,7 @@ resin
 resins
 resist
 resists
+resonant
 resort
 respond
 rested
@@ -6282,6 +6280,7 @@ slots
 slow
 slowed
 slower
+slowing
 slum
 slums
 sly
@@ -7645,6 +7644,7 @@ winner
 winners
 winning
 winter
+winters
 wipe
 wiped
 wiping

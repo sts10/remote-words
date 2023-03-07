@@ -237,7 +237,6 @@ amidst
 amino
 amnesty
 among
-amongst
 amount
 amounted
 amounts
@@ -792,7 +791,6 @@ bluntly
 blur
 blurred
 blush
-blvd
 boarded
 boards
 boast
@@ -1238,7 +1236,6 @@ chiefly
 chiefs
 child
 children
-chile
 chili
 chill
 chilled
@@ -1648,6 +1645,7 @@ cycles
 cyclic
 cycling
 cylinder
+cylinders
 cyst
 cystic
 cysts
@@ -2272,10 +2270,10 @@ enjoy
 enjoyed
 enjoying
 enjoys
+enlarge
 enlist
 enlisted
 enough
-enquiry
 enraged
 enrich
 enrolled
@@ -2755,6 +2753,7 @@ for
 forage
 forbade
 forbid
+forceful
 forces
 forearm
 forecast
@@ -3338,6 +3337,7 @@ hitherto
 hits
 hitting
 hobby
+hockey
 hog
 hogan
 holder
@@ -3537,6 +3537,7 @@ inform
 infrared
 infused
 ingenuity
+ingestion
 inhabit
 inherent
 inherit
@@ -3804,7 +3805,6 @@ lambs
 lancet
 landed
 lantern
-large
 larger
 largest
 larvae
@@ -3856,7 +3856,6 @@ learn
 learned
 learner
 learns
-learnt
 leasing
 least
 leather
@@ -4052,6 +4051,7 @@ lucky
 luggage
 lumbar
 lumber
+luminous
 lunar
 lunch
 lungs
@@ -4528,7 +4528,6 @@ only
 onset
 onto
 onward
-onwards
 opaque
 open
 opened
@@ -5496,6 +5495,7 @@ rescued
 research
 resemble
 reservoir
+reservoirs
 reset
 reside
 resident
