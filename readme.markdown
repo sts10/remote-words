@@ -27,8 +27,6 @@ On a keyboard layout that's just all the letters in one row alphabetically (`abc
 
 - The program doesn't calculate the distance between the last character of one word and the first character of the next word, since we can't know that until the passphrase is generated.
 
-<!-- - Warning: These word lists have **prefix words** in them. This means that, technically, users should place a punctuation or space between each word, e.g. `glee inch cut mixer spire dingy` or `lens-pleas-gird-treat-while-mutate`. The click cost of getting to and entering this in-between punctuation is **not** included in the program's calculations used to judge words and create the word lists. Again, this is project is more of a proof of concept. -->
-
 ## Usage (How to generate word lists yourself)
 
 This program currently creates "raw" lists of about 11,000 words. **Warning**: these raw lists are not uniquely decodable and may contain profane words.
