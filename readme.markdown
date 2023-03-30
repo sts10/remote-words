@@ -4,7 +4,7 @@ Passphrase word lists optimized to reduce clicks of a TV remote (or video game c
 
 The number of "clicks" a given word requires is equal to its length plus the number of navigation clicks it takes to get from each letter to the next. This second measurement depends greatly on the **layout** of letters that the app/device presents to the user. To that end, this repo has a number of word lists in `lists/usable/` sub-directory, each based on a different layout. The layouts are summarized below.
 
-This project (the Rust code and the resulting word lists) is mostly a **proof of concept** to show how very specific word lists can aid users.
+This project (the Rust code and the resulting word lists) is mostly a **proof of concept** to show how very specific word lists can aid users if we know the use-case.
 
 Here's [a blog post](https://sts10.github.io//2022/10/24/a-good-netflix-password.html) I wrote explaining my inspiration and process of this project.
 
@@ -36,7 +36,7 @@ This program currently creates "raw" lists of about 11,000 words. **Warning**: t
 To refine these "raw" lists into more usable word lists, I then used another program I wrote called [Tidy](https://github.com/sts10/tidy) and ran a command like this:
 
 ```bash
-tidy -AAAA --whittle-to 7776 -KlL -m 3 -r ../reject-words/profane-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/alpha-line.txt lists/raw/alpha-line.txt
+tidy -AAAA --whittle-to 7776 -KlL -m 3 -r ../reject-words/profane-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/long/alpha-line.txt lists/raw/alpha-line.txt
 ```
 
 Among other things, this Tidy command uses an algorithm I wrote called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) to make the  lists **uniquely decodable**. Effectively this means that words from the resulting list can be safely combined without a delimiter (like `seasonreadilyrentallunarpioneerbolted`). 
@@ -47,16 +47,16 @@ You can find "usable", uniquely decodable lists in the `lists/usable` directory.
 
 1. [Install Rust](https://www.rust-lang.org/tools/install)
 2. Clone this repo and `cd` into this directory.
-3. `mkdir lists && mkdir lists/raw`
+3. `mkdir -p lists/raw && mkdir -p lists/usable/long && mkdir -p lists/usable/short`
 4. `cargo run --release`
 
 Locations of input file and created files are all hard-coded. Created lists will be printed to `lists/raw/`.
 
 ## Lists/layouts
 
-Each list in the `lists/usable` sub-directory corresponds to a different, common keyboard layout. All lists are 7,776-words long, which means that each word adds approximately 12.925 bits to a passphrase.
+Each list in the `lists/usable/short` and `lists/usable/long` sub-directories correspond to a different, common keyboard layout. "Long" lists are 7,776-words long, which means that each word adds approximately 12.925 bits to a passphrase. "Short" lists are 1,296-words long, which means that each word from them adds approximately 10.34 bits of entropy to a passphrase.
 
-**Guidance**: to minimize the number of "clicks" you must execute to enter a passphrase, use the word list that corresponds to the keyboard layout you're asked to enter the passphrase with.
+**Guidance**: To minimize the number of "clicks" you must execute to enter a passphrase, use the word list that corresponds to the keyboard layout you're asked to enter the passphrase with.
 
 All layouts are ortholinear, which is both realistic (from the layouts I've seen on Smart TV apps) and simplifies travel-distance calculations.
 
