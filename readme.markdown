@@ -85,6 +85,16 @@ Just what it sounds like (think some Apple TVs use this layout?).
 abcdefghijklmnopqrstuvwxyz
 ```
 
+## Bits per click 
+
+If you're deciding between the long and short lists, you can consult this table of **bits of entropy per click**. The table also has columns for "Medium (3,000 words)" and "Very Short (800 words)" lists that are NOT currently included in this repository. 
+
+|             | Long (7776) | Medium (3000) | Short (1296) | Very Short (800) |
+|-------------|-------------|---------------|--------------|------------------|
+| QWERTY      | 0.534       | 0.6767        | 0.7747       | 0.8189           |
+| AlphaSquare | 0.6         | 0.7561        | 0.8792       | 0.9319           |
+| AlphaLine   | 0.2983      | 0.3987        | 0.4813       | 0.5242           |
+
 ## Disclaimer: Profane words
 
 These lists may have profane, indecent or otherwise objectionable words in them.
