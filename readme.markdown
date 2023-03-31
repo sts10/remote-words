@@ -119,6 +119,6 @@ The word lists within this repository (files within the `lists/` directory and t
 
 ### More on licensing of word lists
 
-The words for some of these generated word lists come from Google Books Ngram data. This data compilation "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). 
+The words that make up the word lists in this project ultimately come from [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). That data compilation "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). 
 
 This project has no association with Google, nor does Google endorse this project. [More information available at the original project's repo](https://github.com/sts10/common_word_list_maker).
