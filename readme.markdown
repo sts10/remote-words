@@ -99,6 +99,8 @@ Thus, 4 words from a long, 7,776-word list gives 51.7 bits on entropy. 4 words f
 
 Lastly, I'll note that the above calculations do not include the number of clicks it takes to get from the last character of one word to the first word of the next. Thus it under-prices the cost of using a higher number of words (5 words vs. 4 words), giving an unfair advantage to the shorter lists. That said, I personally think 1,296 words is a nice sweet spot for these lists.
 
+See my [Remote Words Grader project](https://github.com/sts10/remote-words-grader) for _how_ I built the above table.
+
 ## Disclaimer: Profane words
 
 These lists may have profane, indecent or otherwise objectionable words in them.
