@@ -93,6 +93,12 @@ If you're deciding between the long and short lists, you can consult this table 
 | AlphaSquare | 0.6         | 0.7561        | 0.8792       | 0.9319           |
 | AlphaLine   | 0.2983      | 0.3987        | 0.4813       | 0.5242           |
 
+Shorter word lists give a higher bits per click, which is efficient. But to make a passphrase with the same amount of total entropy you'd need to use more words from a short a list. One word from a 7,776-word list gives 12.925 bits of entropy, while one word from a 1,296-word list only give 10.34 bits. 
+
+Thus, 4 words from a long, 7,776-word list gives 51.7 bits on entropy. 4 words from a short, 1,296-word list gives only 41.36 bits (coincidentally, adding a fifth word from a short list gets us to equivalent 51.7 bits). 
+
+Lastly, I'll note that the above calculations do not include the number of clicks it takes to get from the last character of one word to the first word of the next. Thus it under-prices the cost of using a higher number of words (5 words vs. 4 words).
+
 ## Disclaimer: Profane words
 
 These lists may have profane, indecent or otherwise objectionable words in them.
