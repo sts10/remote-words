@@ -107,7 +107,7 @@ These lists may have profane, indecent or otherwise objectionable words in them.
 
 ## Where the source words come from
 
-The `source_list.txt` word list -- which is used by the Rust code to create the shorter, optimized lists -- came from Google Books Ngram word frequency data (and since edited). See below for more information.
+The `source_list.txt` word list -- which is used by the Rust code to create the shorter, optimized lists -- is a mix of words from Google Books Ngram word frequency data and Wikipedia word frequency data (and since edited). See below for more information.
 
 ## More word lists
 
@@ -121,6 +121,8 @@ The word lists within this repository (files within the `lists/` directory and t
 
 ### More on licensing of word lists
 
-The words that make up the word lists in this project ultimately come from [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). That data compilation "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). 
+The words contained in these word lists are taken from two main sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
-This project has no association with Google, nor does Google endorse this project. [More information available at the original project's repo](https://github.com/sts10/common_word_list_maker).
+Some of the words that make up the word lists in this project ultimately come from [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). That data compilation "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). 
+
+This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
