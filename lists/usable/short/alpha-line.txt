@@ -685,6 +685,7 @@ lipid
 list
 lists
 load
+loaded
 loaf
 lobe
 lock
@@ -1062,7 +1063,6 @@ some
 son
 song
 sonic
-sonny
 sons
 sore
 sorrow

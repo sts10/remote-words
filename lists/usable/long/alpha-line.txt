@@ -2331,6 +2331,7 @@ eloquence
 eloquent
 else
 email
+embargo
 embarked
 embassy
 embedded
@@ -6337,7 +6338,6 @@ sometime
 sonata
 song
 songs
-sonny
 sooner
 soothing
 sophomore

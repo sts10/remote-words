@@ -2863,6 +2863,7 @@ gallery
 gallon
 gallons
 gamble
+gambling
 game
 games
 gaming
@@ -6286,7 +6287,6 @@ solving
 song
 songs
 sonic
-sonny
 soon
 sooner
 soothing

@@ -6112,6 +6112,7 @@ shield
 shields
 shift
 shifted
+shifting
 shifts
 shillings
 shin
@@ -6360,7 +6361,6 @@ someone
 sonata
 song
 songs
-sonny
 sooner
 soothing
 sophomore
