@@ -107,11 +107,11 @@ These lists may have profane, indecent or otherwise objectionable words in them.
 
 ## Where the source words come from
 
-The `source_list.txt` word list -- which is used by the Rust code to create the shorter, optimized lists -- is a mix of words from Google Books Ngram word frequency data and Wikipedia word frequency data (and since edited). See below for more information.
+The `source_list.txt` word list -- which can be thought of as raw data used by the Rust code to create the optimized lists -- is a mix of words from Google Books Ngram word frequency data and Wikipedia word frequency data (and since edited). See below for more information.
 
 ## More word lists
 
-You can find additional [word lists I've created here](https://github.com/sts10/generated-wordlists).
+You can find additional [word lists I've created here](https://github.com/sts10/orchard-street-wordlists) and [here](https://github.com/sts10/generated-wordlists).
 
 ## On licensing/usage
 
@@ -119,9 +119,9 @@ The computer code of this project -- all files in the `src/` and `target/` direc
 
 The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
+The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/). Wikipedia licenses its text under CC-BY-SA, and thus this project's lists are available under the same license.
 
-This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
+This project has no association with Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
 <!-- Given that [Wikipedia text is licensed as Creative Commons Attribution-ShareAlike 3.0 Unported License ("CC BY-SA")](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content), I'm also using that license for this project. -->
 
