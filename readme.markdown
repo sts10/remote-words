@@ -117,15 +117,13 @@ You can find additional [word lists I've created here](https://github.com/sts10/
 
 The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under the Blue Oak Model License 1.0.0. See LICENSE-BOML file for more. 
 
-The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). See LICENSE-CC file for more information.
-
-### More on licensing of word lists
+The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
 This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
-Given that [Wikipedia text is licensed as Creative Commons Attribution-ShareAlike 3.0 Unported License ("CC BY-SA")](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content), I'm also using that license for this project.
+<!-- Given that [Wikipedia text is licensed as Creative Commons Attribution-ShareAlike 3.0 Unported License ("CC BY-SA")](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content), I'm also using that license for this project. -->
 
 <!-- ### Licensing -->
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<!-- <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. -->
