@@ -117,7 +117,7 @@ You can find additional [word lists I've created here](https://github.com/sts10/
 
 The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under the [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0). See LICENSE-BOML file for more. 
 
-The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 International License</a>.
+The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/). Wikipedia licenses its text under CC-BY-SA 3.0, and thus this project's lists are available under the same license.
 
