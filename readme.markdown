@@ -37,9 +37,9 @@ To refine these "raw" lists into more usable word lists, I then used another pro
 tidy -AAAA --whittle-to 7776 -KlL -m 3 -r ../reject-words/profane-words.txt -r ../reject-words/roman-numerals-lower.txt -r ../reject-words/britishisms.txt -r ../reject-words/repeated-letters.txt --samples --force -o lists/usable/long/alpha-line.txt lists/raw/alpha-line.txt
 ```
 
-Among other things, this Tidy command uses an algorithm I wrote called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) to make the  lists **uniquely decodable**. Effectively this means that words from the resulting list can be safely combined without a delimiter (like `seasonreadilyrentallunarpioneerbolted`). 
+Among other things, this Tidy command uses an algorithm I wrote called [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) to make the  lists **uniquely decodable**. Effectively this means that words from the resulting list can be safely combined without a delimiter (like `seasonreadilyrentallunarpioneerbolted`).
 
-You can find "usable", uniquely decodable lists in the `lists/usable` directory. 
+You can find "usable", uniquely decodable lists in the `lists/usable` directory.
 
 ### Generate raw word lists for 3 different layout types
 
@@ -83,9 +83,9 @@ Just what it sounds like (think some Apple TVs use this layout?).
 abcdefghijklmnopqrstuvwxyz
 ```
 
-## Bits per click 
+## Bits per click
 
-If you're deciding between the long and short lists, you can consult this table of **bits of entropy per click**. The table also has columns for "Medium (3,000 words)" and "Very Short (800 words)" lists that are NOT currently included in this repository. 
+If you're deciding between the long and short lists, you can consult this table of **bits of entropy per click**. The table also has columns for "Medium (3,000 words)" and "Very Short (800 words)" lists that are NOT currently included in this repository.
 
 |             | Long (7776) | Medium (3000) | Short (1296) | Very Short (800) |
 |-------------|-------------|---------------|--------------|------------------|
@@ -93,9 +93,9 @@ If you're deciding between the long and short lists, you can consult this table 
 | AlphaSquare | 0.6         | 0.7561        | 0.8792       | 0.9319           |
 | AlphaLine   | 0.2983      | 0.3987        | 0.4813       | 0.5242           |
 
-Shorter word lists give a higher bits per click, which is more efficient for users. But to make a passphrase with the same amount of total entropy, you'd need to use more words from a short list. As an example, one word from a 7,776-word list adds 12.925 bits of entropy to a passphrase, while one word from a 1,296-word list only adds 10.34 bits. 
+Shorter word lists give a higher bits per click, which is more efficient for users. But to make a passphrase with the same amount of total entropy, you'd need to use more words from a short list. As an example, one word from a 7,776-word list adds 12.925 bits of entropy to a passphrase, while one word from a 1,296-word list only adds 10.34 bits.
 
-Thus, 4 words from a long, 7,776-word list gives 51.7 bits on entropy. 4 words from a short, 1,296-word list gives only 41.36 bits (coincidentally, adding a fifth word from a short list gets us to equivalent 51.7 bits). 
+Thus, 4 words from a long, 7,776-word list gives 51.7 bits on entropy. 4 words from a short, 1,296-word list gives only 41.36 bits (coincidentally, adding a fifth word from a short list gets us to equivalent 51.7 bits).
 
 Lastly, I'll note that the above calculations do not include the number of clicks it takes to get from the last character of one word to the first word of the next. Thus it under-prices the cost of using a higher number of words (5 words vs. 4 words), giving an unfair advantage to the shorter lists. That said, I personally think 1,296 words is a nice sweet spot for these lists.
 
@@ -115,7 +115,7 @@ You can find additional [word lists I've created here](https://github.com/sts10/
 
 ## On licensing/usage
 
-The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under the [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0). See LICENSE-BOML file for more. 
+The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under the [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0). See LICENSE-BOML file for more.
 
 The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
