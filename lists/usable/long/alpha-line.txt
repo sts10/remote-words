@@ -125,8 +125,6 @@ adult
 adults
 advent
 advice
-advisor
-advisors
 aerial
 aerobic
 affair
@@ -4286,6 +4284,7 @@ meter
 meters
 method
 metric
+metrics
 metro
 metropolis
 mice
@@ -4708,6 +4707,7 @@ options
 opus
 oracle
 orange
+oranges
 orbit
 orbits
 orchid
@@ -5491,7 +5491,6 @@ ranch
 random
 ranged
 rangers
-ranges
 ranging
 ranked
 ranking
@@ -6525,6 +6524,7 @@ stat
 state
 stated
 static
+station
 stats
 statue
 stature

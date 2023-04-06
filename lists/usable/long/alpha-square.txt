@@ -121,7 +121,6 @@ advice
 advise
 advised
 advising
-advisor
 advocacy
 advocate
 aerial
@@ -1489,6 +1488,7 @@ conclude
 concluded
 concord
 condemn
+condemned
 condition
 conditions
 conduct
