@@ -354,6 +354,7 @@ array
 arrest
 arrests
 arrive
+arrived
 arrogant
 arrows
 arroyo
@@ -621,6 +622,7 @@ begun
 behalf
 behave
 behaved
+behavior
 behind
 behold
 being
@@ -990,7 +992,6 @@ canals
 canary
 cancel
 canceled
-cancelled
 cancer
 cancers
 candle
@@ -1009,6 +1010,7 @@ canopy
 canyon
 cap
 capable
+capacity
 cape
 capitol
 capped
@@ -1518,13 +1520,16 @@ consumer
 consumers
 consuming
 cont
+contact
 contain
+contains
 contempt
 contend
 content
 contents
 contest
 contests
+context
 continuum
 contour
 contours
@@ -1597,8 +1602,6 @@ cougars
 cough
 could
 council
-councillor
-councillors
 councils
 counsel
 count
@@ -2043,7 +2046,6 @@ disbelief
 discern
 disciple
 disco
-discs
 discuss
 disdain
 disgust
@@ -2417,6 +2419,7 @@ ensuring
 entail
 entailed
 entails
+entered
 entire
 entitled
 entrants
@@ -2985,7 +2988,6 @@ garner
 garrison
 gas
 gaseous
-gases
 gasoline
 gasped
 gastric
@@ -3656,6 +3658,7 @@ inspired
 inspiring
 install
 installed
+instance
 instant
 instead
 instinct
@@ -3885,6 +3888,7 @@ lasting
 lastly
 lasts
 later
+latter
 lattice
 lauded
 laugh
@@ -3917,6 +3921,7 @@ learns
 leases
 least
 leave
+leaving
 lecture
 lectured
 ledger
@@ -4359,7 +4364,6 @@ mode
 model
 modeled
 modeling
-modelled
 models
 modem
 modernism
@@ -4733,7 +4737,6 @@ orphan
 orphanage
 orphans
 orthodox
-otter
 ottoman
 ottomans
 ounce
@@ -5149,6 +5152,7 @@ posture
 postwar
 potato
 potent
+potter
 pottery
 pouch
 poultry
@@ -5637,6 +5641,7 @@ religion
 religions
 religious
 remain
+remained
 remains
 remake
 remark
@@ -5830,7 +5835,6 @@ rushes
 rusty
 ruthless
 rye
-sabre
 sack
 sacked
 sacks
@@ -6056,7 +6060,6 @@ sheep
 sheer
 sheet
 sheets
-sheikh
 shelf
 shell
 shells
@@ -6505,7 +6508,6 @@ stalls
 stamp
 stamped
 stamps
-stance
 stand
 staple
 star
@@ -6951,7 +6953,6 @@ terry
 tested
 testified
 testing
-text
 texts
 texture
 than
@@ -7701,7 +7702,6 @@ worrying
 worse
 worsened
 worship
-worshipped
 worst
 worth
 worthless

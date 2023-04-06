@@ -295,6 +295,7 @@ antenna
 anterior
 anthem
 antibiotic
+antibody
 antigen
 antigens
 antique
@@ -553,6 +554,7 @@ barker
 barley
 barn
 baron
+baronet
 barons
 baroque
 barrage
@@ -1027,7 +1029,6 @@ canals
 canary
 cancel
 canceled
-cancelled
 cancer
 cancers
 candle
@@ -1544,6 +1545,7 @@ contact
 contacts
 contain
 contained
+container
 containing
 contains
 contend
@@ -1630,7 +1632,6 @@ cougars
 cough
 could
 council
-councillor
 councils
 counsel
 counter
@@ -1956,6 +1957,7 @@ deploy
 deported
 deposed
 deposit
+deposition
 deposits
 depot
 deprive
@@ -2081,7 +2083,6 @@ disco
 discount
 discounts
 discover
-discs
 discuss
 disdain
 disgust
@@ -2146,6 +2147,7 @@ dolphins
 domain
 domains
 dome
+dominance
 dominant
 dominion
 donate
@@ -2438,6 +2440,7 @@ entropy
 envoy
 envy
 enzyme
+enzymes
 epic
 epidemic
 epilepsy
@@ -2939,6 +2942,7 @@ freight
 french
 frequent
 fresh
+freshman
 friars
 friction
 fried
@@ -3017,7 +3021,6 @@ garner
 garrison
 gas
 gaseous
-gases
 gasoline
 gasped
 gastric
@@ -3038,6 +3041,7 @@ gem
 gems
 gender
 gene
+generic
 genes
 genius
 genocide
@@ -4352,7 +4356,6 @@ mode
 model
 modeled
 modeling
-modelled
 models
 modem
 modern
@@ -4719,7 +4722,6 @@ ornate
 orphan
 orphans
 orthodox
-otter
 ottoman
 ottomans
 ounce
@@ -5138,6 +5140,7 @@ postwar
 potassium
 potato
 potent
+potter
 pottery
 pouch
 pounding
@@ -5852,7 +5855,6 @@ rusty
 ruthless
 rye
 sabotage
-sabre
 sack
 sacked
 sacks
@@ -5919,7 +5921,6 @@ saves
 saving
 savings
 savior
-saviour
 saw
 sawmill
 saying
@@ -6102,7 +6103,6 @@ sheep
 sheer
 sheet
 sheets
-sheikh
 shelf
 shell
 shells

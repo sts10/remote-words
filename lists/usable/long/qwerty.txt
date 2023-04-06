@@ -228,6 +228,7 @@ amounts
 amused
 analog
 anarchy
+ancestor
 ancestry
 anchor
 anchored
@@ -1923,7 +1924,6 @@ discard
 discern
 disco
 discrete
-discs
 discuss
 disease
 diseases
@@ -2883,7 +2883,6 @@ garner
 garnered
 gas
 gaseous
-gases
 gasoline
 gasped
 gastric
@@ -4375,7 +4374,6 @@ myth
 mythic
 mythology
 myths
-nails
 naked
 name
 names
@@ -4591,7 +4589,6 @@ origins
 orioles
 ornate
 orphan
-otter
 ottoman
 ounce
 ounces
@@ -5005,6 +5002,7 @@ potassium
 potato
 potency
 potent
+potter
 pottery
 pouch
 poultry
@@ -5176,6 +5174,7 @@ punch
 punched
 punches
 punish
+punished
 punitive
 punk
 punt
@@ -5405,6 +5404,7 @@ refusal
 refuse
 refused
 refuses
+refusing
 regain
 regained
 regard
@@ -5727,7 +5727,6 @@ rushes
 rusty
 ruthless
 rye
-sabre
 sack
 sacked
 sacks
@@ -5798,7 +5797,6 @@ saves
 saving
 savings
 savior
-saviour
 sawmill
 sawyer
 saying
@@ -5869,6 +5867,7 @@ script
 scripted
 scripts
 scripture
+scriptures
 scroll
 scrub
 scrutiny
@@ -6039,7 +6038,6 @@ sheep
 sheer
 sheet
 sheets
-sheikh
 shelf
 shell
 shells
@@ -6251,6 +6249,7 @@ smoothly
 smuggling
 snack
 snail
+snails
 snake
 snakes
 snap
@@ -6403,6 +6402,7 @@ stages
 staggered
 staging
 stain
+stained
 stains
 stairs
 stake
@@ -7269,6 +7269,7 @@ untreated
 unused
 unveiled
 unwanted
+unwilling
 unworthy
 update
 updated
@@ -7622,7 +7623,6 @@ wight
 wild
 wilder
 wildly
-willing
 willingly
 willow
 wills
