@@ -2,5 +2,6 @@
 name = "remote-words-code"
 version = "0.3.3"
 edition = "2021"
+license = "BlueOak-1.0.0"
 
 [dependencies]
