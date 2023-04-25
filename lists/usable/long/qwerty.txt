@@ -5174,7 +5174,6 @@ punch
 punched
 punches
 punish
-punished
 punitive
 punk
 punt
@@ -6699,6 +6698,7 @@ surveyor
 surveys
 survive
 suture
+swallow
 swallowed
 swamp
 swamps

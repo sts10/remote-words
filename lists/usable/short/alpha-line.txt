@@ -554,6 +554,7 @@ hire
 hit
 hits
 hold
+hole
 hollow
 holy
 home
@@ -685,7 +686,6 @@ lipid
 list
 lists
 load
-loaded
 loaf
 lobe
 lock
