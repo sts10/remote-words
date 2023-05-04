@@ -370,7 +370,6 @@ assassin
 assault
 assaulted
 assaults
-assay
 assays
 assemble
 assembled
@@ -3275,7 +3274,6 @@ hired
 hiring
 history
 hit
-hitherto
 hits
 hitter
 hitting
@@ -4917,6 +4915,7 @@ plunged
 plural
 plus
 pocket
+pockets
 pod
 podcast
 podium
@@ -5174,6 +5173,7 @@ punch
 punched
 punches
 punish
+punished
 punitive
 punk
 punt

@@ -349,6 +349,7 @@ arena
 arenas
 argue
 argued
+arguing
 arid
 arise
 arising
@@ -388,7 +389,6 @@ aspirin
 aspiring
 assassin
 assault
-assay
 assays
 assent
 assert
@@ -1529,7 +1529,6 @@ console
 consoles
 consonant
 consonants
-consort
 constable
 constant
 constants
@@ -3047,6 +3046,7 @@ genius
 genocide
 genome
 genre
+genres
 gentile
 gentle
 gentry
@@ -3369,7 +3369,6 @@ historian
 historic
 history
 hit
-hitherto
 hits
 hitter
 hitting
@@ -3945,7 +3944,6 @@ level
 levels
 levied
 levy
-lexical
 lexicon
 liability
 liaison
@@ -6830,6 +6828,7 @@ synonymous
 synopsis
 syntactic
 syntax
+synthetic
 syrup
 system
 systemic
@@ -7335,6 +7334,7 @@ usually
 uterine
 utility
 utilize
+utilized
 utmost
 utopia
 utopian

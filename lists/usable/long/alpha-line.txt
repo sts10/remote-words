@@ -354,6 +354,7 @@ array
 arrest
 arrests
 arrive
+arrived
 arrogant
 arrows
 arroyo
@@ -1062,6 +1063,7 @@ castles
 casual
 cat
 catch
+category
 cater
 cathode
 cattle
@@ -1508,7 +1510,6 @@ consist
 consists
 console
 consoles
-consort
 construed
 consul
 consult
@@ -3351,7 +3352,6 @@ historical
 histories
 history
 hit
-hitherto
 hits
 hitter
 hitting
