@@ -312,7 +312,6 @@ dog
 doll
 dolls
 dome
-don
 done
 donor
 donors
@@ -686,6 +685,7 @@ lipid
 list
 lists
 load
+loaded
 loaf
 lobe
 lock
