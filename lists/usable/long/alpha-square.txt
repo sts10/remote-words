@@ -127,12 +127,10 @@ aerial
 aerobic
 affair
 affairs
-affect
 affected
 affecting
 affection
 affections
-affects
 affinity
 affirm
 afford
@@ -3115,6 +3113,7 @@ gone
 gong
 good
 goodbye
+goodness
 goods
 goodwill
 goose
@@ -3520,6 +3519,7 @@ immune
 immunity
 impact
 impacts
+impaired
 impetus
 implant
 implants
@@ -4796,7 +4796,6 @@ painter
 painting
 paintings
 paints
-paired
 pairing
 pairs
 palace
@@ -4862,6 +4861,7 @@ pattern
 pause
 paused
 paved
+pavilion
 payable
 paying
 payment
@@ -4907,6 +4907,7 @@ perched
 perfect
 perfection
 perform
+performs
 perhaps
 peril
 period
@@ -7594,7 +7595,6 @@ wheeler
 wheels
 when
 whence
-whereas
 wherein
 which
 whilst

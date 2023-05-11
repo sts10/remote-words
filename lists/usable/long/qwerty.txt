@@ -122,10 +122,8 @@ advises
 aerial
 affair
 affairs
-affect
 affecting
 affection
-affects
 affinity
 affirm
 affirmed
@@ -2435,6 +2433,7 @@ failure
 failures
 faint
 fairly
+fairness
 fairy
 faith
 faithful
@@ -5427,6 +5426,7 @@ region
 regions
 register
 registered
+registers
 registry
 regression
 regret
@@ -5788,6 +5788,7 @@ sans
 sap
 sat
 satellite
+satellites
 satin
 satire
 satisfy
@@ -7593,7 +7594,6 @@ wheels
 when
 whence
 whenever
-whereas
 wherein
 whereupon
 wherever

@@ -129,12 +129,10 @@ aerial
 aerobic
 affair
 affairs
-affect
 affected
 affecting
 affection
 affections
-affects
 affinity
 affirm
 affirmed
@@ -1024,6 +1022,7 @@ cardiac
 cards
 career
 careers
+careful
 cares
 cargo
 caring
@@ -7466,6 +7465,7 @@ virtuous
 virus
 viruses
 visa
+visible
 visions
 visit
 visitor
