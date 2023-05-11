@@ -2620,6 +2620,7 @@ flag
 flags
 flair
 flame
+flames
 flank
 flap
 flare
@@ -7452,7 +7453,6 @@ wagons
 waist
 waiter
 waits
-waived
 waiver
 wakes
 waking
