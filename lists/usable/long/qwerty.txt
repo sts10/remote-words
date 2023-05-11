@@ -58,7 +58,6 @@ across
 activity
 actress
 actresses
-actual
 acute
 acutely
 adapt
@@ -166,6 +165,7 @@ aims
 airing
 airport
 airway
+airways
 akin
 alarm
 alas
@@ -527,6 +527,7 @@ banning
 barber
 bare
 barely
+bargain
 barge
 bark
 barker
@@ -792,6 +793,7 @@ bomber
 bombs
 bond
 bonded
+bonding
 bonds
 bone
 bones
@@ -872,7 +874,6 @@ breath
 breathe
 breathed
 breathing
-bred
 breed
 breeding
 breeds
@@ -1041,7 +1042,6 @@ canopy
 canvas
 canyon
 cap
-capitol
 capped
 caps
 capture
@@ -1083,7 +1083,6 @@ cases
 cash
 casino
 cassette
-caste
 castes
 casting
 castle
@@ -1599,6 +1598,7 @@ curry
 curse
 cursed
 cursor
+curtain
 curve
 curved
 curves
@@ -2422,6 +2422,7 @@ factor
 factors
 factory
 facts
+factual
 faculty
 fade
 faded
@@ -2809,6 +2810,7 @@ frog
 frogs
 from
 front
+frontal
 frontier
 fronts
 frost
@@ -2855,7 +2857,6 @@ fuzzy
 gable
 gaining
 gains
-gait
 gala
 galaxy
 gale
@@ -3140,6 +3141,7 @@ hang
 hangar
 hanging
 hangs
+hank
 happen
 happier
 happily
@@ -3291,6 +3293,7 @@ holiday
 holidays
 holiness
 hollow
+holly
 holy
 homage
 home
@@ -3569,6 +3572,7 @@ invalid
 invasion
 invent
 invented
+inventor
 inverse
 inverted
 invest
@@ -4013,7 +4017,6 @@ maiden
 mailed
 mailing
 mainly
-maize
 majesty
 major
 majors
@@ -4179,7 +4182,6 @@ metric
 metrics
 metro
 mice
-mickey
 middle
 midnight
 midway
@@ -4492,6 +4494,7 @@ obvious
 occasion
 occult
 occupied
+occupies
 occupy
 occur
 occurred
@@ -4673,6 +4676,7 @@ pans
 panther
 pants
 pap
+papa
 paper
 par
 parade
@@ -4900,6 +4904,7 @@ pleasant
 please
 pleased
 pleasure
+pleasures
 pledge
 pledged
 plenty
@@ -5046,7 +5051,6 @@ preferring
 prefers
 prefix
 prelude
-premier
 premiere
 premiered
 premise
@@ -5877,7 +5881,6 @@ sea
 seafood
 seal
 sealed
-sealing
 seals
 seam
 searched
@@ -6208,6 +6211,7 @@ slices
 slid
 slide
 slides
+sliding
 slight
 slightest
 slightly
@@ -6606,6 +6610,7 @@ subdued
 subgroup
 subject
 sublime
+submerged
 submit
 submitted
 subset
@@ -6781,6 +6786,7 @@ tapped
 tapping
 target
 targeted
+targeting
 targets
 tariff
 tariffs
@@ -6873,7 +6879,6 @@ texts
 textual
 texture
 than
-thank
 thanked
 thanks
 that
@@ -6894,7 +6899,6 @@ theory
 therapy
 there
 thereafter
-thereby
 therefore
 therein
 thermal
@@ -7456,7 +7460,6 @@ waits
 waiver
 wakes
 waking
-wales
 walk
 walked
 walker
@@ -7591,11 +7594,9 @@ when
 whence
 whenever
 whereas
-whereby
 wherein
 whereupon
 wherever
-whether
 which
 whilst
 whip
@@ -7605,7 +7606,6 @@ whitish
 who
 whoever
 whole
-wholly
 whom
 whose
 why
@@ -7713,9 +7713,9 @@ wreck
 wrecked
 wrestled
 wrestler
+wrestlers
 wrestling
 wretched
-wright
 wrist
 wrists
 writ

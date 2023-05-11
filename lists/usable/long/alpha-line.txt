@@ -845,7 +845,6 @@ breach
 bread
 break
 breaks
-bred
 breed
 breeding
 breeds
@@ -1011,8 +1010,6 @@ canyon
 cap
 capable
 capacity
-cape
-capitol
 capped
 caps
 capsule
@@ -1055,7 +1052,6 @@ case
 cases
 cash
 casino
-caste
 castes
 casting
 castle
@@ -1116,7 +1112,6 @@ chambers
 champion
 champions
 chance
-chancel
 chancellor
 chances
 change
@@ -1507,6 +1502,7 @@ consent
 consider
 considers
 consist
+consisted
 consists
 console
 consoles
@@ -1519,6 +1515,7 @@ consumed
 consumer
 consumers
 consuming
+consumption
 cont
 contact
 contain
@@ -1913,6 +1910,7 @@ denying
 depart
 depend
 depended
+depends
 depict
 depicts
 depleted
@@ -2061,6 +2059,7 @@ dismissed
 disorder
 disorders
 displaced
+display
 disposal
 dispose
 disposed
@@ -2447,6 +2446,7 @@ errors
 erupted
 eruption
 eruptions
+escape
 espionage
 essay
 essence
@@ -2466,6 +2466,7 @@ every
 evident
 evoke
 evokes
+evolution
 evolve
 evolved
 exam
@@ -2959,7 +2960,6 @@ fuzzy
 gable
 gaining
 gains
-gait
 gala
 galaxy
 gale
@@ -3220,6 +3220,7 @@ handy
 hang
 hangar
 hangs
+hank
 happen
 happened
 happens
@@ -3281,6 +3282,7 @@ heater
 heather
 heats
 heaven
+heavily
 heavy
 hector
 hedge
@@ -3309,7 +3311,6 @@ herbal
 herbs
 herd
 herds
-hereby
 heresy
 hero
 heroes
@@ -3369,6 +3370,7 @@ holidays
 holiness
 holistic
 hollow
+holly
 holy
 homage
 home
@@ -3663,6 +3665,7 @@ instead
 instinct
 institute
 instituted
+institution
 instruct
 instrument
 instruments
@@ -4129,7 +4132,6 @@ mailed
 mailing
 mainline
 mainly
-maize
 majesty
 major
 majority
@@ -4292,7 +4294,6 @@ metrics
 metro
 metropolis
 mice
-mickey
 middle
 midland
 midnight
@@ -5204,7 +5205,6 @@ preferring
 prefers
 prefix
 prelude
-premier
 premise
 premium
 premiums
@@ -5616,6 +5616,7 @@ regimes
 region
 regional
 regions
+register
 registry
 regret
 reigned
@@ -5687,6 +5688,7 @@ reputed
 reset
 reside
 resign
+resigned
 resin
 resist
 resort
@@ -5936,7 +5938,6 @@ sea
 seafood
 seal
 sealed
-sealing
 seals
 seam
 search
@@ -5952,6 +5953,7 @@ secession
 second
 seconds
 section
+sections
 sector
 sectors
 secure
@@ -6956,7 +6958,6 @@ testing
 texts
 texture
 than
-thank
 thanked
 thanks
 that
@@ -7009,6 +7010,7 @@ though
 thought
 thoughts
 thread
+threat
 three
 threw
 thrill
@@ -7510,7 +7512,6 @@ waits
 wake
 wakes
 waking
-wales
 walk
 walked
 walker
@@ -7541,6 +7542,7 @@ waste
 wasted
 watt
 watts
+wave
 wax
 ways
 weak
@@ -7600,7 +7602,6 @@ whistle
 white
 who
 whole
-wholly
 whom
 whose
 why
@@ -7718,7 +7719,6 @@ wrath
 wreck
 wrecked
 wrestled
-wright
 wrist
 wrists
 writ
