@@ -2151,6 +2151,7 @@ downhill
 downing
 download
 downs
+downtown
 dozen
 dozens
 draft
@@ -5049,7 +5050,6 @@ plunge
 plunged
 plural
 plus
-pneumonia
 pocket
 pockets
 pod
