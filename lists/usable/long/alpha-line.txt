@@ -630,7 +630,6 @@ beliefs
 believe
 believed
 bell
-belle
 bells
 belly
 belong
@@ -730,7 +729,6 @@ blind
 blinked
 bliss
 blitz
-bloc
 block
 blockade
 blocked
@@ -1564,7 +1562,6 @@ copying
 copyright
 coral
 cords
-cores
 cork
 corneal
 corner
@@ -1606,7 +1603,6 @@ counting
 country
 county
 coup
-coupe
 couple
 coupled
 couples
@@ -1936,6 +1932,7 @@ descent
 desert
 deserts
 designed
+designer
 designing
 designs
 desire
@@ -4017,6 +4014,7 @@ liquids
 liquor
 listen
 listened
+listening
 listing
 listings
 lists
@@ -4886,6 +4884,7 @@ peg
 pelvic
 pelvis
 penal
+penalty
 pencil
 penicillin
 pennant
@@ -5924,6 +5923,7 @@ scope
 score
 scored
 scorer
+scores
 scoring
 scorn
 scotch

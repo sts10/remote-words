@@ -663,7 +663,6 @@ beliefs
 believe
 believed
 bell
-belle
 bells
 belly
 belong
@@ -759,7 +758,6 @@ blind
 blinked
 bliss
 blitz
-bloc
 block
 blocked
 blocking
@@ -1640,7 +1638,6 @@ counting
 country
 county
 coup
-coupe
 couple
 coupled
 couples
@@ -2437,6 +2434,7 @@ entailed
 entire
 entitled
 entropy
+envelope
 envoy
 envy
 enzyme
@@ -3216,6 +3214,7 @@ gut
 guy
 guys
 gym
+gymnasium
 gymnast
 gypsy
 habitat
@@ -5343,6 +5342,7 @@ psyche
 psychic
 pub
 puberty
+publicity
 publish
 pubs
 pueblo
@@ -5715,6 +5715,7 @@ return
 returns
 reunion
 reunite
+reunited
 reuse
 reused
 reveal
@@ -7281,7 +7282,6 @@ uniform
 unions
 unique
 unit
-united
 uniting
 units
 unjust
