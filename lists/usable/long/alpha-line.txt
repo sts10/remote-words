@@ -2035,6 +2035,7 @@ dipped
 dire
 direct
 director
+directors
 directs
 dirt
 dirty
@@ -2355,6 +2356,7 @@ emperor
 emperors
 empire
 empires
+empirical
 employ
 employed
 employee
@@ -4190,7 +4192,6 @@ marrow
 marry
 mars
 marsh
-martin
 martins
 martyr
 martyrs
@@ -6057,7 +6058,6 @@ she
 shear
 sheath
 sheep
-sheer
 sheet
 sheets
 shelf
@@ -6299,6 +6299,7 @@ soap
 sober
 soccer
 social
+socialist
 socially
 society
 socket
@@ -6509,6 +6510,7 @@ stamp
 stamped
 stamps
 stand
+stands
 staple
 star
 starch
@@ -7018,7 +7020,6 @@ thriller
 throne
 through
 throw
-thrown
 throws
 thrust
 thumb
@@ -7031,7 +7032,6 @@ tidal
 tide
 tides
 tie
-tied
 tier
 tiger
 tigers
@@ -7388,7 +7388,6 @@ vaccine
 vacuum
 vague
 vain
-vale
 value
 van
 vanilla
@@ -7432,6 +7431,7 @@ viceroy
 vicinity
 vicious
 victim
+victims
 victor
 victory
 video

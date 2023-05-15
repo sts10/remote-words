@@ -2615,6 +2615,7 @@ fix
 fixed
 fixing
 fixture
+fixtures
 fjord
 flag
 flags
@@ -4064,6 +4065,7 @@ marker
 markers
 market
 marking
+markings
 marks
 married
 marries
@@ -4073,7 +4075,6 @@ marrying
 mars
 marsh
 marshes
-martin
 martins
 martyr
 martyrs
@@ -4428,6 +4429,7 @@ niece
 nineteen
 ninja
 ninth
+nitrogen
 nobility
 noble
 nobles
@@ -4704,6 +4706,7 @@ passes
 passing
 passion
 passive
+password
 past
 pasta
 paste
@@ -6039,7 +6042,6 @@ she
 shear
 sheath
 sheep
-sheer
 sheet
 sheets
 shelf
@@ -6953,7 +6955,6 @@ throne
 through
 throughout
 throw
-thrown
 throws
 thrust
 thumb
@@ -6965,7 +6966,6 @@ tidal
 tide
 tides
 tie
-tied
 tier
 tiger
 tigers
@@ -7331,7 +7331,6 @@ vacuum
 vague
 vaguely
 vain
-vale
 valley
 valleys
 value
@@ -7439,6 +7438,7 @@ volumes
 volunteer
 volunteered
 volunteers
+vomiting
 vortex
 voter
 voters

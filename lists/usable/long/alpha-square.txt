@@ -753,6 +753,7 @@ blend
 blended
 bless
 blessed
+blessing
 blew
 blind
 blinked
@@ -1067,6 +1068,7 @@ cargo
 caring
 carol
 carpet
+carriage
 carried
 carrier
 carries
@@ -1605,6 +1607,7 @@ corona
 corps
 corpse
 corpus
+corrected
 correction
 corridor
 corrosion
@@ -4181,7 +4184,6 @@ marrow
 marry
 mars
 marsh
-martin
 martins
 martyr
 marvel
@@ -4749,6 +4751,7 @@ outside
 outsider
 outsiders
 outspoken
+outward
 oval
 ovary
 overall
@@ -5236,6 +5239,7 @@ prisons
 privacy
 privy
 prize
+prizes
 pro
 probable
 probation
@@ -6104,7 +6108,6 @@ she
 shear
 sheath
 sheep
-sheer
 sheet
 sheets
 shelf
@@ -7008,7 +7011,6 @@ through
 throughout
 throw
 throwing
-thrown
 throws
 thrust
 thumb
@@ -7021,7 +7023,6 @@ tidal
 tide
 tides
 tie
-tied
 tier
 tiger
 tigers
@@ -7352,7 +7353,6 @@ vaccine
 vacuum
 vague
 vain
-vale
 valley
 value
 valued
