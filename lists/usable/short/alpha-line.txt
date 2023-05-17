@@ -32,6 +32,7 @@ aimed
 aims
 airs
 akin
+ale
 alike
 allied
 allow
@@ -193,7 +194,6 @@ check
 cheek
 cheer
 chef
-chem
 chess
 chest
 chick
@@ -252,7 +252,6 @@ cup
 cut
 cuts
 dad
-dale
 dam
 dame
 damp
@@ -1172,6 +1171,7 @@ think
 this
 tide
 tie
+tied
 tile
 tilt
 time

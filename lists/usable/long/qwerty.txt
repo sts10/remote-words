@@ -32,6 +32,7 @@ accessing
 accession
 accessory
 accident
+accolades
 accord
 accorded
 accords
@@ -296,7 +297,6 @@ appointed
 apps
 apron
 aquarium
-aqueous
 arc
 arcade
 archer
@@ -1097,6 +1097,7 @@ catfish
 cathode
 cats
 cattle
+caucus
 caught
 causal
 caused
@@ -1182,7 +1183,6 @@ cheerful
 cheerfully
 cheese
 chef
-chem
 cherry
 chess
 chest
@@ -1619,7 +1619,6 @@ dagger
 daily
 dairy
 daisy
-dale
 damage
 damaged
 damages
@@ -2247,6 +2246,7 @@ entire
 entirety
 entities
 entrance
+entrants
 entries
 entropy
 envelope
@@ -2878,7 +2878,6 @@ gardener
 gardens
 garlic
 garner
-garnered
 gas
 gaseous
 gasoline
@@ -2903,7 +2902,6 @@ gem
 gems
 gender
 gene
-genera
 general
 generate
 generic
@@ -2940,7 +2938,6 @@ ginger
 girl
 girls
 given
-gives
 giving
 glad
 gladly
@@ -3415,6 +3412,7 @@ immoral
 immune
 immunity
 impact
+imperfect
 impetus
 implied
 implies
@@ -3558,9 +3556,11 @@ interpret
 interred
 interrupt
 interval
+intervene
 interview
 into
 intuition
+intuitive
 invade
 invaded
 invaders
@@ -3744,6 +3744,7 @@ laid
 lake
 lakes
 lamb
+lamps
 lancet
 landed
 lantern
@@ -3897,6 +3898,7 @@ liquids
 liquor
 listen
 listened
+listener
 listing
 listings
 lists
@@ -4039,6 +4041,7 @@ manner
 manners
 manning
 manor
+mantle
 manure
 many
 map
@@ -4290,6 +4293,7 @@ moon
 moonlight
 moors
 moose
+morale
 morally
 morning
 morrow
@@ -4761,7 +4765,6 @@ peoples
 pepper
 percent
 perched
-perfect
 perfected
 perform
 perfume
@@ -4782,6 +4785,7 @@ petition
 petrol
 pets
 petty
+phantom
 phase
 phased
 phases
@@ -5130,6 +5134,7 @@ prolonged
 promise
 promote
 promoted
+promoter
 prompt
 prone
 pronoun
@@ -5670,7 +5675,6 @@ roles
 roller
 rolling
 rolls
-roman
 romance
 rookie
 root
@@ -5764,7 +5768,6 @@ salient
 saline
 salinity
 saliva
-sally
 salmon
 salon
 saloon
@@ -5798,6 +5801,7 @@ saturated
 sauce
 savage
 savages
+savannah
 save
 saved
 saves
@@ -6007,7 +6011,6 @@ sewage
 sewer
 sewing
 sex
-sexes
 sexual
 sexy
 shade
@@ -6357,6 +6360,7 @@ spit
 spleen
 split
 splits
+splitting
 spoil
 spoiled
 spoke
@@ -6446,8 +6450,6 @@ statue
 statues
 stature
 status
-statute
-statutes
 stay
 stayed
 staying
@@ -6746,7 +6748,6 @@ symbol
 symbolic
 symbols
 symptom
-synod
 synonym
 syntax
 syrup
@@ -6966,6 +6967,7 @@ tidal
 tide
 tides
 tie
+tied
 tier
 tiger
 tigers
@@ -7175,7 +7177,6 @@ tubes
 tubing
 tubular
 tucked
-tucker
 tug
 tumor
 tumors
@@ -7733,7 +7734,6 @@ yacht
 yahoo
 yards
 yarn
-yeah
 year
 yearbook
 yearly

@@ -120,6 +120,7 @@ advent
 advice
 advise
 advised
+adviser
 advising
 advocacy
 advocate
@@ -333,7 +334,6 @@ apps
 apron
 aptitude
 aquatic
-aqueous
 arc
 arcade
 archaic
@@ -572,7 +572,6 @@ bases
 basic
 basics
 basil
-basilica
 basin
 basins
 basis
@@ -1091,6 +1090,7 @@ castle
 castles
 casual
 cat
+catalog
 catch
 catcher
 catching
@@ -1160,6 +1160,7 @@ charity
 charm
 charms
 chart
+charted
 charts
 chase
 chased
@@ -1179,7 +1180,6 @@ cheeks
 cheer
 cheese
 chef
-chem
 chemist
 cherry
 chess
@@ -1416,6 +1416,7 @@ comment
 comments
 commerce
 commission
+commissions
 commit
 committed
 committee
@@ -1511,6 +1512,7 @@ connection
 connector
 connects
 conquer
+conquered
 conquest
 conscious
 consent
@@ -1542,6 +1544,7 @@ contained
 container
 containing
 contains
+contempt
 contend
 content
 contents
@@ -1600,6 +1603,7 @@ copying
 coral
 cork
 corner
+corners
 cornice
 corona
 corps
@@ -1669,6 +1673,7 @@ cradle
 craft
 crane
 crash
+crashed
 crawl
 crazy
 create
@@ -1743,7 +1748,6 @@ curled
 curling
 curls
 curly
-current
 currents
 curry
 curse
@@ -1774,7 +1778,6 @@ dagger
 daily
 dairy
 daisy
-dale
 damage
 damaged
 damages
@@ -1875,6 +1878,7 @@ defective
 defects
 defend
 defendant
+defendants
 defended
 defender
 defending
@@ -2888,6 +2892,7 @@ forests
 forever
 forge
 forged
+forgive
 forgot
 fork
 forks
@@ -3071,9 +3076,7 @@ gill
 ginger
 girl
 girls
-give
 given
-gives
 giving
 glacier
 glad
@@ -3133,7 +3136,6 @@ grab
 grabbed
 grace
 gracious
-grade
 graded
 grades
 grading
@@ -4855,6 +4857,7 @@ paths
 patient
 patients
 patriot
+patriots
 patrol
 patron
 patrons
@@ -5157,6 +5160,7 @@ powered
 powerless
 powers
 practice
+prairie
 praise
 prayed
 prayer
@@ -5550,6 +5554,7 @@ recruit
 recruits
 rector
 rectory
+recurrent
 recurring
 reddish
 redeemed
@@ -5758,7 +5763,6 @@ rights
 rigid
 rigidity
 rigorous
-riots
 risen
 rises
 risk
@@ -5798,7 +5802,6 @@ roll
 roller
 rolling
 rolls
-roman
 romance
 romantic
 rookie
@@ -5895,7 +5898,6 @@ salient
 saline
 salinity
 saliva
-sally
 salmon
 salon
 saloon
@@ -6076,7 +6078,6 @@ sewage
 sewer
 sewing
 sex
-sexes
 sexy
 shade
 shaded
@@ -6405,7 +6406,6 @@ spaced
 spaces
 spacing
 spacious
-span
 spanned
 spanning
 spans
@@ -6557,7 +6557,6 @@ statue
 statues
 stature
 status
-statute
 stay
 stayed
 staying
@@ -6833,7 +6832,6 @@ symphony
 symposium
 symptom
 symptoms
-synod
 synonym
 synonymous
 synopsis
@@ -6903,6 +6901,7 @@ tea
 teach
 teacher
 teaching
+teachings
 teams
 tear
 tears
@@ -7024,6 +7023,7 @@ tidal
 tide
 tides
 tie
+tied
 tier
 tiger
 tigers
@@ -7134,6 +7134,7 @@ trading
 traffic
 tragic
 trail
+trailer
 trained
 tram
 trams
@@ -7208,7 +7209,6 @@ tube
 tubes
 tubing
 tucked
-tucker
 tug
 tumor
 tumors
@@ -7310,6 +7310,7 @@ upcoming
 update
 updated
 updating
+upgrade
 upheld
 uphold
 upland
@@ -7578,7 +7579,6 @@ welcomed
 welcoming
 weld
 welding
-wellington
 wells
 welsh
 were
@@ -7641,6 +7641,7 @@ winery
 wines
 winged
 winger
+wingspan
 winner
 winners
 winning
@@ -7738,7 +7739,6 @@ yahoo
 yard
 yards
 yarn
-yeah
 year
 years
 yeast

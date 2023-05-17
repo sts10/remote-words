@@ -328,7 +328,6 @@ approve
 approved
 apps
 apron
-aqueous
 arc
 arcade
 archer
@@ -540,7 +539,6 @@ bases
 basic
 basics
 basil
-basilica
 basin
 basins
 basis
@@ -1155,7 +1153,6 @@ cheeks
 cheer
 cheese
 chef
-chem
 chemical
 chemically
 chemicals
@@ -1487,6 +1484,7 @@ confront
 confronts
 confuse
 confused
+confusion
 conical
 connect
 connector
@@ -1728,7 +1726,6 @@ dagger
 daily
 dairy
 daisy
-dale
 damage
 damaged
 damages
@@ -2949,6 +2946,7 @@ furious
 furnace
 furnish
 furnished
+furniture
 further
 fury
 fuss
@@ -3005,7 +3003,6 @@ gem
 gems
 gender
 gene
-genera
 generic
 generous
 genes
@@ -3049,7 +3046,6 @@ ginger
 girl
 girls
 given
-gives
 giving
 glacial
 glacier
@@ -3455,6 +3451,7 @@ hunter
 hunters
 hunting
 hurling
+hurricane
 hurried
 hurry
 hurt
@@ -4203,6 +4200,7 @@ masonic
 masonry
 mass
 massage
+masses
 mast
 match
 mate
@@ -4871,7 +4869,6 @@ peanut
 pearl
 pearls
 peas
-peat
 pedagogy
 pedal
 peel
@@ -5392,6 +5389,7 @@ pull
 pulled
 pulling
 pulls
+pulmonary
 pulp
 pulpit
 pulses
@@ -5485,6 +5483,7 @@ raids
 railroad
 rainfall
 rainy
+raising
 rallied
 rallies
 ramp
@@ -5671,6 +5670,7 @@ reopen
 reopened
 repair
 repeal
+repeat
 replace
 replaced
 replica
@@ -5702,6 +5702,7 @@ restore
 restored
 result
 results
+retail
 retina
 return
 returned
@@ -5773,7 +5774,6 @@ roe
 rogue
 roles
 rolls
-roman
 romance
 romantic
 rookie
@@ -5864,7 +5864,6 @@ sale
 sales
 salient
 saline
-sally
 salmon
 salon
 saloon
@@ -6046,6 +6045,7 @@ shame
 shanghai
 shape
 shaped
+shapes
 shaping
 share
 shared
@@ -6533,7 +6533,6 @@ stats
 statue
 stature
 status
-statute
 stay
 stays
 steadily
@@ -6626,6 +6625,7 @@ stressing
 stretch
 stricken
 strict
+strictly
 stride
 strife
 strike
@@ -6851,7 +6851,6 @@ symphony
 symptom
 symptoms
 syndrome
-synod
 synonym
 synonymous
 synopsis
@@ -7017,6 +7016,7 @@ threw
 thrill
 thrilled
 thriller
+throat
 throne
 through
 throw
@@ -7032,6 +7032,7 @@ tidal
 tide
 tides
 tie
+tied
 tier
 tiger
 tigers
@@ -7236,7 +7237,6 @@ tube
 tubes
 tubing
 tucked
-tucker
 tug
 tumor
 tumors
@@ -7413,6 +7413,7 @@ venture
 ventured
 venue
 verb
+verbal
 verge
 verified
 verse
@@ -7736,7 +7737,6 @@ yacht
 yahoo
 yard
 yarn
-yeah
 year
 years
 yeast
