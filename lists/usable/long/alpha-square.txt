@@ -978,6 +978,7 @@ button
 buttons
 buy
 buyer
+buyers
 buying
 buys
 buzz
@@ -3909,7 +3910,6 @@ learn
 learned
 learns
 leases
-least
 leather
 leave
 leaves
@@ -4524,7 +4524,6 @@ needing
 needle
 needs
 neighbor
-neither
 neon
 nephew
 nerve
@@ -5119,7 +5118,6 @@ popular
 populist
 populous
 porch
-pore
 pork
 porosity
 porous
@@ -5839,7 +5837,6 @@ rubble
 ruby
 rudder
 rugby
-rugged
 ruin
 ruined
 rule
@@ -6178,6 +6175,7 @@ shrine
 shrink
 shrub
 shrubs
+shrugged
 shut
 shuttle
 shy
@@ -6357,6 +6355,7 @@ solids
 solitude
 solo
 soloist
+soluble
 solution
 solutions
 solve
@@ -7279,6 +7278,7 @@ unfair
 unhappy
 unified
 uniform
+uniforms
 unions
 unique
 unit
@@ -7355,6 +7355,7 @@ vacuum
 vague
 vain
 valley
+valleys
 value
 valued
 valve
@@ -7605,7 +7606,6 @@ whistle
 white
 whitish
 who
-whoever
 whole
 whom
 whose

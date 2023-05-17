@@ -3917,11 +3917,11 @@ learners
 learning
 learns
 leases
-least
 leave
 leaving
 lecture
 lectured
+lecturer
 ledger
 leftist
 leg
@@ -4529,7 +4529,6 @@ needs
 neglect
 neighbor
 neighbors
-neither
 neon
 nephew
 nerve
@@ -4599,6 +4598,7 @@ nuclei
 nude
 null
 number
+numbered
 numbers
 numerous
 nun
@@ -5112,7 +5112,6 @@ populist
 populous
 porcelain
 porch
-pore
 pork
 porosity
 porous
@@ -5200,6 +5199,7 @@ preferred
 preferring
 prefers
 prefix
+pregnant
 prelude
 premise
 premium
