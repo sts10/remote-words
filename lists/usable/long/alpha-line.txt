@@ -6936,7 +6936,6 @@ tends
 tenets
 tennis
 tenor
-tens
 tensile
 tension
 tensions
@@ -7389,6 +7388,7 @@ vacuum
 vague
 vain
 value
+valve
 van
 vanilla
 vanity

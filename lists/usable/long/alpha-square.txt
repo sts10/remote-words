@@ -2014,6 +2014,7 @@ diagnosis
 diagnostic
 diagonal
 diagram
+diagrams
 dialect
 dialects
 dialog
@@ -3142,7 +3143,6 @@ grades
 grading
 grain
 grains
-grams
 grand
 grange
 grants
@@ -4337,6 +4337,7 @@ mirror
 mirrored
 mirrors
 mischief
+misery
 miss
 missed
 misses
@@ -6927,7 +6928,6 @@ tends
 tenets
 tennis
 tenor
-tens
 tensile
 tension
 tensions
