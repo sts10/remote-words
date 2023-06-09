@@ -125,6 +125,7 @@ adult
 adults
 advent
 advice
+advise
 aerial
 aerobic
 affair
@@ -145,7 +146,6 @@ afforded
 affords
 afghan
 afraid
-after
 afternoon
 again
 against
@@ -221,7 +221,6 @@ aloud
 alpha
 alphabet
 alpine
-also
 altar
 alter
 alto
@@ -249,6 +248,7 @@ amplitude
 amused
 amusing
 analog
+analyst
 ancestor
 ancestors
 ancestry
@@ -363,6 +363,7 @@ artists
 artwork
 artworks
 ascent
+ashamed
 ashes
 ashore
 asleep
@@ -434,6 +435,7 @@ avail
 avid
 avoid
 avoided
+avoiding
 avoids
 awe
 awhile
@@ -489,6 +491,7 @@ ballots
 ballroom
 bamboo
 banana
+band
 bandits
 bands
 bang
@@ -600,13 +603,11 @@ bedside
 bee
 beech
 beef
-been
 beer
 beers
 bees
 beetle
 beetles
-before
 befriended
 beg
 began
@@ -645,7 +646,6 @@ bench
 benches
 bend
 bending
-beneath
 benefit
 benefited
 benefits
@@ -663,12 +663,12 @@ bestowed
 beta
 better
 betting
-between
 beyond
 bias
 biased
 bible
 biblical
+bid
 bidding
 bids
 biennial
@@ -818,6 +818,7 @@ bounded
 bounds
 bounty
 bourbon
+bout
 bouts
 bovine
 bowed
@@ -865,6 +866,7 @@ brings
 brink
 brittle
 broader
+broadly
 broke
 broken
 broker
@@ -1058,6 +1060,7 @@ castles
 casual
 cat
 catch
+catching
 category
 cater
 cathode
@@ -1254,6 +1257,7 @@ clearly
 cleft
 clement
 clenched
+clergy
 clerk
 clerks
 click
@@ -1309,6 +1313,7 @@ coached
 coaches
 coaching
 coal
+coarse
 coast
 coasts
 coat
@@ -1538,6 +1543,7 @@ convent
 convert
 converts
 convex
+convey
 convince
 convinced
 convoy
@@ -1569,6 +1575,7 @@ corner
 corners
 cornice
 corona
+coronary
 corporal
 corps
 corpse
@@ -1593,7 +1600,6 @@ cotton
 couch
 cougars
 cough
-could
 council
 councilor
 councils
@@ -1983,7 +1989,6 @@ diamonds
 diary
 dice
 dichotomy
-did
 die
 died
 diesel
@@ -2089,6 +2094,7 @@ divers
 divert
 divide
 divided
+dividend
 divides
 dividing
 divine
@@ -2102,7 +2108,6 @@ doctors
 dodge
 dodgers
 doe
-does
 dog
 dogma
 dogs
@@ -2205,6 +2210,7 @@ drying
 dual
 dub
 dubbed
+duchess
 duck
 ducks
 duct
@@ -2226,7 +2232,6 @@ dungeon
 dungeons
 duo
 durable
-during
 dusk
 dust
 dusty
@@ -2365,6 +2370,7 @@ enabled
 enables
 enabling
 enact
+enacted
 enamel
 enclosed
 enclosure
@@ -2393,6 +2399,7 @@ enhance
 enhanced
 enjoy
 enjoyed
+enjoying
 enjoys
 enlarge
 enlarged
@@ -2422,6 +2429,7 @@ entrants
 entries
 entropy
 entrusted
+envelope
 envoy
 envy
 enzyme
@@ -2485,6 +2493,7 @@ expect
 expelled
 expert
 experts
+expired
 explain
 exploded
 exploit
@@ -2838,7 +2847,6 @@ footing
 footnote
 footprint
 footsteps
-for
 foraging
 forbid
 forbidden
@@ -2911,7 +2919,6 @@ friend
 fringe
 frog
 frogs
-from
 frontal
 frontier
 frontiers
@@ -3190,7 +3197,6 @@ guy
 guys
 gym
 gypsy
-had
 hail
 hailed
 hairy
@@ -3225,6 +3231,7 @@ harbor
 hard
 harder
 hardest
+hardy
 harmless
 harmonic
 harmonious
@@ -3233,7 +3240,6 @@ harness
 harrow
 harry
 harsh
-has
 haste
 hastily
 hasty
@@ -3285,6 +3291,7 @@ heed
 hegemony
 height
 heights
+heir
 heiress
 helium
 helix
@@ -3549,6 +3556,7 @@ improved
 improves
 improving
 impulse
+impulses
 impurity
 inability
 incense
@@ -3570,6 +3578,7 @@ indebted
 indeed
 index
 indexed
+indicator
 indices
 indigenous
 indoor
@@ -3685,7 +3694,6 @@ intern
 interned
 interred
 interrupt
-into
 intrinsic
 intrusion
 intuition
@@ -4203,7 +4211,9 @@ mass
 massage
 masses
 mast
+mat
 match
+matched
 mate
 math
 mating
@@ -4517,7 +4527,6 @@ nation
 nations
 nature
 navy
-near
 nearly
 necessity
 neck
@@ -4568,6 +4577,7 @@ nominee
 nominees
 none
 nonprofit
+noon
 norm
 normally
 norms
@@ -4656,6 +4666,7 @@ officers
 offices
 officials
 offset
+offshore
 offspring
 often
 okay
@@ -4674,7 +4685,6 @@ onion
 onions
 online
 onset
-onto
 opaque
 opener
 opening
@@ -4803,7 +4813,6 @@ paint
 painted
 paints
 pairing
-pairs
 palace
 palaces
 pale
@@ -5124,6 +5133,7 @@ portrait
 portraits
 portray
 portrays
+positioned
 positions
 possess
 possessed
@@ -5282,6 +5292,7 @@ prognosis
 program
 progress
 prohibit
+prohibited
 prohibits
 project
 projected
@@ -5389,7 +5400,6 @@ pulls
 pulmonary
 pulp
 pulpit
-pulses
 pump
 pumped
 pumping
@@ -5661,11 +5671,13 @@ renders
 renew
 renowned
 rent
+rental
 rented
 rents
 reopen
 reopened
 repair
+repairs
 repeal
 repeat
 replace
@@ -5683,6 +5695,7 @@ reproach
 reputed
 reset
 reside
+resides
 resign
 resigned
 resin
@@ -6149,6 +6162,7 @@ signifies
 signify
 silence
 silent
+silently
 silica
 silicon
 silk
@@ -6764,6 +6778,7 @@ supported
 supporter
 supporters
 supporting
+supportive
 supports
 suppose
 supposed
@@ -6771,6 +6786,7 @@ supposedly
 supposing
 suppress
 suppressed
+suppression
 supreme
 surely
 surf
@@ -6931,6 +6947,7 @@ tempo
 tempted
 tempting
 tenant
+tenants
 tender
 tending
 tendon
@@ -6958,13 +6975,9 @@ testified
 testing
 texts
 texture
-than
 thanked
 thanks
-that
-the
 theft
-their
 theirs
 theme
 themes
@@ -6975,10 +6988,8 @@ theories
 theorist
 theorists
 theory
-there
 therein
 thermal
-these
 theses
 thesis
 they
@@ -7006,7 +7017,6 @@ this
 thistle
 thorn
 thorough
-those
 though
 thought
 thoughts
@@ -7019,13 +7029,11 @@ thrilled
 thriller
 throat
 throne
-through
 throw
 throws
 thrust
 thumb
 thunder
-thus
 thyroid
 ticket
 tickets
@@ -7242,7 +7250,9 @@ tulip
 tumor
 tumors
 tuna
+tune
 tuned
+tunes
 tuning
 tunnel
 tunnels
@@ -7338,7 +7348,6 @@ unspecified
 unstable
 unsure
 until
-unto
 untouched
 unused
 unusual
@@ -7353,7 +7362,6 @@ upheld
 uphold
 upland
 uploaded
-upon
 upright
 uprising
 upset
@@ -7388,6 +7396,7 @@ vacuum
 vague
 vain
 value
+valued
 valve
 van
 vanilla
@@ -7533,6 +7542,7 @@ warmed
 warn
 warned
 warns
+warrior
 wars
 wary
 was
@@ -7580,7 +7590,6 @@ welding
 wells
 welsh
 went
-were
 wet
 whale
 whales
@@ -7595,7 +7604,6 @@ wheels
 when
 whence
 wherein
-which
 whilst
 whip
 whipped
@@ -7604,9 +7612,6 @@ whistle
 white
 who
 whole
-whom
-whose
-why
 wicked
 wicket
 wickets
@@ -7658,11 +7663,8 @@ wished
 wishes
 wishing
 wit
-with
 withheld
 withhold
-within
-without
 witness
 wives
 wolf
@@ -7756,8 +7758,6 @@ you
 young
 younger
 youngest
-your
-yours
 yourself
 youth
 youthful

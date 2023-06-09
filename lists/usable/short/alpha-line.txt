@@ -1,7 +1,6 @@
 abbot
 abide
 able
-about
 acacia
 accent
 accept
@@ -33,12 +32,12 @@ aims
 airs
 akin
 ale
+align
 alike
 allied
 allow
 almost
 along
-also
 alt
 amid
 amino
@@ -94,7 +93,6 @@ beds
 bee
 beech
 beef
-been
 beer
 beers
 bees
@@ -136,6 +134,7 @@ blow
 blur
 bog
 boil
+bold
 bond
 bone
 bonus
@@ -146,13 +145,14 @@ boot
 boots
 born
 boss
+bout
 bouts
 bow
 box
 boy
+brook
 bus
 bust
-but
 buy
 cab
 cabbage
@@ -170,7 +170,6 @@ called
 calls
 calm
 cam
-came
 camp
 camps
 can
@@ -236,6 +235,7 @@ cont
 cook
 cool
 cop
+cope
 cops
 copy
 cork
@@ -267,6 +267,7 @@ deals
 dean
 dear
 debt
+debts
 decade
 decent
 decide
@@ -277,6 +278,7 @@ deeds
 deemed
 deep
 deer
+defect
 defend
 define
 defined
@@ -292,7 +294,6 @@ depot
 desk
 dew
 dice
-did
 die
 died
 dies
@@ -346,6 +347,7 @@ emir
 empty
 ended
 envy
+epic
 error
 errors
 euro
@@ -384,6 +386,7 @@ feet
 fell
 fellow
 felt
+fence
 fern
 ferry
 fest
@@ -446,7 +449,6 @@ food
 fool
 fools
 foot
-for
 fork
 form
 forms
@@ -455,7 +457,6 @@ forum
 four
 fox
 frog
-from
 front
 frost
 fry
@@ -497,7 +498,6 @@ golf
 gone
 gong
 good
-got
 groom
 gross
 grow
@@ -507,7 +507,6 @@ guru
 gut
 guy
 guys
-had
 hail
 hair
 half
@@ -515,7 +514,6 @@ hall
 halo
 ham
 hank
-has
 headed
 heal
 heap
@@ -593,8 +591,8 @@ info
 inn
 input
 inputs
-into
 iron
+isle
 ivy
 jack
 jade
@@ -646,6 +644,7 @@ laid
 lam
 leaf
 leak
+lean
 left
 leg
 legged
@@ -683,6 +682,7 @@ lipid
 list
 lists
 load
+loaded
 loaf
 lobe
 lock
@@ -775,6 +775,7 @@ motors
 motto
 mount
 mouth
+mud
 mug
 must
 neck
@@ -789,6 +790,7 @@ niece
 night
 nights
 node
+nominee
 none
 noon
 norm
@@ -816,7 +818,6 @@ onion
 onions
 online
 only
-onto
 open
 oppose
 opposed
@@ -842,6 +843,7 @@ per
 pick
 pie
 piece
+pier
 pig
 pigs
 pile
@@ -906,6 +908,7 @@ prone
 pronoun
 proof
 prop
+prose
 proton
 proxy
 pub
@@ -958,7 +961,6 @@ rooms
 root
 roots
 rope
-rose
 rot
 rotor
 rows
@@ -1020,6 +1022,7 @@ sit
 sits
 six
 ski
+skiing
 skill
 skilled
 skills
@@ -1104,6 +1107,7 @@ steel
 stem
 stiff
 still
+stint
 stir
 stoke
 stole
@@ -1159,9 +1163,9 @@ tab
 tag
 tea
 tee
+teen
 tell
 ten
-the
 them
 then
 thief
@@ -1246,8 +1250,6 @@ two
 union
 unit
 unlike
-unto
-upon
 urea
 urged
 use
@@ -1257,6 +1259,7 @@ via
 vice
 vie
 voice
+voiced
 void
 vols
 vow
@@ -1266,7 +1269,6 @@ weed
 week
 whip
 who
-whom
 wide
 wife
 will
@@ -1288,8 +1290,6 @@ wow
 wrong
 yoke
 you
-your
-yours
 zip
 zone
 zoo
