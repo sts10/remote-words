@@ -247,7 +247,6 @@ amusing
 analog
 analogy
 analyst
-anatomic
 anatomy
 ancestor
 anchor
@@ -419,6 +418,7 @@ athletic
 atlas
 atoll
 atom
+atomic
 atoms
 atop
 atrophy
@@ -501,6 +501,7 @@ badges
 badly
 badminton
 bag
+bagel
 baggage
 bags
 bail
@@ -588,6 +589,7 @@ baton
 bats
 battalion
 batted
+batter
 battered
 batters
 battery
@@ -753,6 +755,7 @@ bless
 blessed
 blessing
 blew
+blimp
 blind
 blinked
 bliss
@@ -918,6 +921,7 @@ brown
 browns
 browse
 bruins
+brunch
 brush
 brushed
 brushing
@@ -1209,7 +1213,6 @@ chloride
 choice
 choices
 choir
-choirs
 choked
 cholera
 choose
@@ -1632,6 +1635,7 @@ cougars
 cough
 could
 council
+councilor
 councils
 counsel
 counter
@@ -1712,7 +1716,6 @@ crossing
 crow
 crowd
 crowded
-crowding
 crowds
 crown
 crowned
@@ -2256,7 +2259,6 @@ ducks
 duel
 dues
 duet
-duff
 dug
 duke
 dukes
@@ -2492,7 +2494,6 @@ every
 evidence
 evident
 evoke
-evokes
 evolution
 evolve
 evolved
@@ -2785,7 +2786,6 @@ flash
 flashback
 flashed
 flashing
-flask
 flat
 flats
 flavor
@@ -3040,7 +3040,6 @@ gazed
 gazing
 gear
 geared
-gecko
 gem
 gems
 gender
@@ -3067,7 +3066,6 @@ ghost
 ghosts
 giant
 giants
-gibbons
 gift
 gifted
 gifts
@@ -3693,6 +3691,7 @@ invented
 invention
 inventor
 invest
+investor
 invite
 invited
 inviting
@@ -3758,7 +3757,6 @@ jointly
 joints
 joke
 jokes
-jolly
 josh
 journal
 jubilee
@@ -3775,7 +3773,6 @@ jumper
 jumping
 jumps
 junction
-junctions
 juncture
 jungle
 junior
@@ -3849,6 +3846,7 @@ knots
 know
 knowing
 knows
+koala
 label
 labeling
 labels
@@ -3874,6 +3872,7 @@ laps
 lapse
 large
 laser
+lasso
 lasted
 lasting
 lasts
@@ -3982,7 +3981,6 @@ limit
 limited
 limiting
 limits
-limp
 lineage
 linear
 linen
@@ -4131,7 +4129,6 @@ making
 males
 malice
 malicious
-malls
 mama
 mammal
 mammals
@@ -4142,10 +4139,12 @@ manages
 managing
 mandate
 manga
+mango
 manhood
 manifest
 mankind
 manly
+manned
 manner
 manners
 manning
@@ -4414,7 +4413,6 @@ moods
 moody
 moon
 moonlight
-moors
 moose
 morale
 moreover
@@ -4459,6 +4457,7 @@ mucous
 mucus
 mud
 muddy
+mug
 mule
 mules
 multi
@@ -4730,7 +4729,9 @@ ottoman
 ottomans
 ounce
 ounces
+ousted
 outcome
+outdated
 outdoor
 outdoors
 outfit
@@ -4992,7 +4993,6 @@ pipe
 pipeline
 piper
 pipes
-piping
 piracy
 pirate
 pistol
@@ -5100,7 +5100,6 @@ polled
 pollen
 polling
 polls
-polluted
 pollution
 polo
 ponds
@@ -5123,7 +5122,6 @@ pork
 porosity
 porous
 portable
-portage
 portal
 porter
 portico
@@ -5220,7 +5218,6 @@ priest
 priests
 primacy
 primal
-primate
 prime
 primer
 prince
@@ -5295,7 +5292,6 @@ pronouns
 proof
 proofs
 prop
-propelled
 propeller
 properly
 property
@@ -5435,7 +5431,6 @@ radial
 radiant
 radical
 radio
-radios
 radius
 raging
 rags
@@ -5451,6 +5446,7 @@ raising
 rallied
 rally
 ramp
+ramps
 ran
 random
 ranged
@@ -5508,7 +5504,6 @@ reasoned
 reasoning
 reasons
 rebel
-rebelled
 rebellion
 rebellious
 rebels
@@ -5628,6 +5623,7 @@ released
 relevant
 reliable
 reliance
+relic
 relics
 relied
 relief
@@ -5736,6 +5732,7 @@ revived
 revoked
 revolt
 reward
+reworked
 rewrite
 rhyme
 rhythm
@@ -5950,6 +5947,7 @@ scarce
 scare
 scared
 scars
+scary
 scatter
 scene
 scenes
@@ -6077,6 +6075,7 @@ sewer
 sewing
 sex
 sexy
+shack
 shade
 shaded
 shades
@@ -6176,6 +6175,7 @@ shrine
 shrink
 shrub
 shrubs
+shrug
 shrugged
 shut
 shuttle
@@ -6251,7 +6251,6 @@ skin
 skinned
 skins
 skip
-skipper
 skirt
 skirts
 skull
@@ -6265,6 +6264,7 @@ slammed
 slang
 slapped
 slate
+sled
 sleeping
 sleepy
 sleeve
@@ -6330,6 +6330,7 @@ snooker
 snout
 snow
 snowfall
+snowy
 soaked
 soap
 sober
@@ -6456,6 +6457,7 @@ spirit
 spirits
 spit
 spleen
+splendid
 split
 splits
 splitting
@@ -6544,6 +6546,7 @@ start
 starts
 startup
 starved
+stash
 stat
 stated
 states
@@ -7209,6 +7212,7 @@ tubes
 tubing
 tucked
 tug
+tulip
 tumor
 tumors
 tuna
@@ -7252,7 +7256,6 @@ typhoon
 typical
 typing
 tyranny
-tyrant
 ugly
 ulcer
 ulcers
@@ -7288,7 +7291,6 @@ unjust
 unknown
 unless
 unlike
-unmanned
 unmarried
 unnamed
 unnoticed
@@ -7688,7 +7690,6 @@ woods
 wool
 wording
 workbook
-worked
 worker
 workers
 working
@@ -7742,7 +7743,6 @@ yarn
 year
 years
 yeast
-yell
 yelled
 yelling
 yellow

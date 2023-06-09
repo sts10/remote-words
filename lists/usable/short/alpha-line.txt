@@ -61,6 +61,7 @@ bacon
 bad
 badge
 bag
+bagel
 bags
 bail
 bait
@@ -73,6 +74,7 @@ ballot
 ban
 band
 bang
+banjo
 bank
 bar
 barn
@@ -127,6 +129,7 @@ bind
 bison
 bit
 bits
+blimp
 blog
 bloom
 blow
@@ -343,7 +346,6 @@ emir
 empty
 ended
 envy
-epic
 error
 errors
 euro
@@ -467,7 +469,6 @@ gallon
 gap
 gas
 gear
-gecko
 gel
 gem
 gems
@@ -594,7 +595,6 @@ input
 inputs
 into
 iron
-isle
 ivy
 jack
 jade
@@ -609,7 +609,6 @@ join
 joins
 joint
 joke
-jolly
 josh
 joy
 joys
@@ -674,7 +673,6 @@ lily
 limb
 lime
 limit
-limp
 lined
 link
 linked
@@ -685,7 +683,6 @@ lipid
 list
 lists
 load
-loaded
 loaf
 lobe
 lock
@@ -767,7 +764,6 @@ monsoon
 month
 mood
 moon
-moors
 moose
 more
 morrow
@@ -779,11 +775,13 @@ motors
 motto
 mount
 mouth
+mug
 must
 neck
 need
 needed
 neon
+nest
 net
 nice
 niche
@@ -1031,6 +1029,7 @@ skip
 skirt
 sky
 slab
+sled
 slice
 sliced
 slid
@@ -1050,6 +1049,7 @@ smoke
 smoked
 snout
 snow
+snowy
 soda
 sofa
 soil
@@ -1227,6 +1227,7 @@ try
 tub
 tube
 tug
+tulip
 tumor
 tumors
 tuna
@@ -1256,7 +1257,6 @@ via
 vice
 vie
 voice
-voiced
 void
 vols
 vow

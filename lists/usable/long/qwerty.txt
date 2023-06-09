@@ -205,7 +205,6 @@ also
 altar
 alter
 altered
-alters
 although
 alto
 aluminum
@@ -424,7 +423,6 @@ attain
 attempt
 attend
 attended
-attends
 attention
 attested
 attic
@@ -495,6 +493,7 @@ badge
 badges
 badly
 bag
+bagel
 baggage
 bags
 bail
@@ -569,6 +568,7 @@ baths
 baton
 bats
 batted
+batter
 battered
 batteries
 batters
@@ -738,6 +738,7 @@ blended
 bless
 blessed
 blew
+blimp
 blind
 blinked
 bliss
@@ -920,6 +921,7 @@ browns
 browse
 browser
 bruins
+brunch
 brush
 brushed
 brushing
@@ -1208,7 +1210,6 @@ chloride
 choice
 choices
 choir
-choirs
 choked
 cholera
 choose
@@ -2069,7 +2070,6 @@ ducts
 duel
 dues
 duet
-duff
 dug
 duke
 dukes
@@ -2310,7 +2310,6 @@ everywhere
 evidence
 evident
 evoke
-evokes
 evolution
 evolve
 evolved
@@ -2627,7 +2626,6 @@ flare
 flash
 flashed
 flashes
-flask
 flat
 flats
 flaw
@@ -2899,7 +2897,6 @@ gazette
 gazing
 gear
 geared
-gecko
 gem
 gems
 gender
@@ -2929,7 +2926,6 @@ ghost
 ghosts
 giant
 giants
-gibbons
 gift
 gifted
 gifts
@@ -3644,7 +3640,6 @@ jointly
 joints
 joke
 jokes
-jolly
 josh
 journal
 journey
@@ -3734,6 +3729,7 @@ knots
 know
 knowing
 knows
+koala
 label
 labor
 lacked
@@ -3757,6 +3753,7 @@ largest
 larvae
 laser
 lasers
+lasso
 lasted
 lasting
 lastly
@@ -3878,7 +3875,6 @@ lily
 limit
 limiting
 limits
-limp
 lineage
 linear
 linen
@@ -4029,16 +4025,17 @@ making
 male
 males
 malice
-malls
 mama
 manage
 managed
 manager
 mandate
 manga
+mango
 manhood
 mankind
 manly
+manned
 manner
 manners
 manning
@@ -4292,10 +4289,10 @@ moods
 moody
 moon
 moonlight
-moors
 moose
 morale
 morally
+morals
 morning
 morrow
 mortal
@@ -4335,6 +4332,7 @@ mucous
 mucus
 mud
 muddy
+mug
 mule
 mules
 multi
@@ -4486,7 +4484,6 @@ object
 objected
 objects
 obliged
-obscene
 obscure
 obscured
 observe
@@ -4600,8 +4597,10 @@ orphan
 ottoman
 ounce
 ounces
+ousted
 outbreak
 outcome
+outdated
 outdoor
 outdoors
 outfit
@@ -4688,6 +4687,7 @@ par
 parade
 parades
 parcel
+pardon
 parent
 parents
 parity
@@ -4846,7 +4846,6 @@ pious
 pipe
 piper
 pipes
-piping
 piracy
 pirate
 pirates
@@ -4964,7 +4963,6 @@ polled
 pollen
 polling
 polls
-polluted
 pollution
 polo
 polymer
@@ -4987,7 +4985,6 @@ populous
 porch
 pork
 porous
-portage
 portal
 portfolio
 portico
@@ -5260,7 +5257,6 @@ radar
 radial
 radio
 radiology
-radios
 radius
 raging
 rags
@@ -5273,6 +5269,7 @@ raises
 rallied
 rallies
 ramp
+ramps
 ran
 random
 ranging
@@ -5328,7 +5325,6 @@ rearing
 reasoned
 reasons
 rebel
-rebelled
 rebellion
 rebels
 rebirth
@@ -5461,6 +5457,7 @@ relay
 release
 released
 releases
+relic
 relics
 relied
 relief
@@ -5493,7 +5490,6 @@ renewal
 renewed
 rental
 rented
-renumbered
 reopen
 reopened
 repay
@@ -5693,7 +5689,6 @@ rotor
 rotten
 rouge
 roughly
-roughness
 route
 routed
 router
@@ -5833,10 +5828,12 @@ scare
 scared
 scarlet
 scars
+scary
 scatter
 scattered
 scattering
 scenario
+scene
 scenery
 scenes
 scenic
@@ -6014,6 +6011,7 @@ sewing
 sex
 sexual
 sexy
+shack
 shade
 shaded
 shades
@@ -6119,6 +6117,7 @@ shrines
 shrink
 shrub
 shrubs
+shrug
 shrugged
 shut
 shuttle
@@ -6192,7 +6191,6 @@ skin
 skinned
 skins
 skip
-skipper
 skirt
 skull
 sky
@@ -6207,6 +6205,7 @@ slate
 slated
 slavery
 slaves
+sled
 sleepy
 sleeve
 sleeves
@@ -6267,6 +6266,7 @@ snap
 snooker
 snout
 snow
+snowy
 soap
 sober
 soccer
@@ -6441,6 +6441,7 @@ starting
 starts
 startup
 starved
+stash
 stat
 stated
 static
@@ -7178,6 +7179,7 @@ tubing
 tubular
 tucked
 tug
+tulip
 tumor
 tumors
 tuna
@@ -7221,7 +7223,6 @@ typhoon
 typical
 typing
 tyranny
-tyrant
 ugly
 ulcer
 ulcers
@@ -7263,7 +7264,6 @@ unknown
 unless
 unlike
 unlimited
-unmanned
 unnamed
 unnecessary
 unopposed
@@ -7461,6 +7461,7 @@ waist
 waiter
 waits
 waiver
+waivers
 wakes
 waking
 walk
@@ -7740,7 +7741,6 @@ yearly
 yearning
 years
 yeast
-yell
 yelled
 yelling
 yellow

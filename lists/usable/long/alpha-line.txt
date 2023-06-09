@@ -224,7 +224,6 @@ alpine
 also
 altar
 alter
-alters
 alto
 aluminum
 alumni
@@ -417,6 +416,7 @@ attempts
 attend
 attended
 attic
+attract
 audio
 audit
 august
@@ -465,6 +465,7 @@ badges
 badly
 badminton
 bag
+bagel
 baggage
 bags
 bail
@@ -554,6 +555,7 @@ baths
 baton
 bats
 batted
+batter
 batters
 battery
 batting
@@ -723,6 +725,7 @@ bless
 blessed
 blessing
 blew
+blimp
 blind
 blinked
 bliss
@@ -880,6 +883,7 @@ browning
 browns
 browse
 bruins
+brunch
 brush
 brushed
 brushing
@@ -1187,7 +1191,6 @@ chlorine
 choice
 choices
 choir
-choirs
 choked
 cholera
 choose
@@ -1575,7 +1578,6 @@ corridor
 corridors
 corrosion
 corrupt
-corrupted
 corruption
 cortex
 cosmic
@@ -1593,6 +1595,7 @@ cougars
 cough
 could
 council
+councilor
 councils
 counsel
 count
@@ -2209,7 +2212,6 @@ ducts
 duel
 dues
 duet
-duff
 dug
 duke
 dukes
@@ -2320,7 +2322,6 @@ elite
 elites
 elk
 elliptic
-elliptical
 eloquence
 eloquent
 else
@@ -2435,6 +2436,7 @@ equal
 equals
 equipped
 equity
+eras
 eroded
 erosion
 erroneous
@@ -2461,7 +2463,6 @@ events
 every
 evident
 evoke
-evokes
 evolution
 evolve
 evolved
@@ -2490,6 +2491,7 @@ exploit
 exploits
 explore
 explored
+explosion
 expo
 exponent
 export
@@ -2747,7 +2749,6 @@ flap
 flare
 flash
 flashed
-flask
 flat
 flats
 flavor
@@ -2818,6 +2819,7 @@ folks
 follow
 followed
 follower
+followers
 following
 follows
 folly
@@ -2998,7 +3000,6 @@ gaze
 gazed
 gear
 geared
-gecko
 gem
 gems
 gender
@@ -3034,7 +3035,6 @@ ghost
 ghosts
 giant
 giants
-gibbons
 gift
 gifted
 gifts
@@ -3759,7 +3759,6 @@ jointly
 joints
 joke
 jokes
-jolly
 josh
 journal
 journals
@@ -3852,6 +3851,7 @@ know
 knowing
 knowledge
 knows
+koala
 label
 labeling
 labels
@@ -3881,6 +3881,7 @@ largest
 larvae
 laser
 lasers
+lasso
 lasted
 lasting
 lastly
@@ -3987,7 +3988,6 @@ limestone
 limit
 limiting
 limits
-limp
 lineage
 linear
 linebacker
@@ -4138,13 +4138,13 @@ makeup
 making
 malice
 malicious
-malls
 mama
 mammal
 mammals
 manage
 managed
 manga
+mango
 manhood
 manifest
 manifesto
@@ -4152,6 +4152,7 @@ manifests
 manifold
 mankind
 manly
+manned
 manner
 manners
 manning
@@ -4244,7 +4245,6 @@ medley
 meet
 meeting
 meets
-melanoma
 melodic
 melodies
 melody
@@ -4414,7 +4414,6 @@ moods
 moody
 moon
 moonlight
-moors
 moose
 morale
 morality
@@ -4462,6 +4461,7 @@ mucous
 mucus
 mud
 muddy
+mug
 mule
 mules
 multi
@@ -4738,6 +4738,7 @@ ottoman
 ottomans
 ounce
 ounces
+ousted
 outcome
 outdoor
 outdoors
@@ -4978,7 +4979,6 @@ pipe
 pipeline
 piper
 pipes
-piping
 piracy
 pistol
 pistols
@@ -5090,7 +5090,6 @@ pollen
 polling
 polls
 pollutants
-polluted
 pollution
 polo
 polymer
@@ -5116,7 +5115,6 @@ pork
 porosity
 porous
 portable
-portage
 portal
 porter
 portfolio
@@ -5317,7 +5315,6 @@ pronouns
 proof
 proofs
 prop
-propelled
 propeller
 properly
 property
@@ -5473,7 +5470,6 @@ radial
 radiant
 radical
 radio
-radios
 radius
 rags
 raided
@@ -5487,6 +5483,7 @@ raising
 rallied
 rallies
 ramp
+ramps
 ran
 ranch
 random
@@ -5534,7 +5531,6 @@ rearing
 reasoned
 reasons
 rebel
-rebelled
 rebellion
 rebellious
 rebels
@@ -5631,6 +5627,7 @@ relax
 relay
 reliable
 reliably
+relic
 relics
 relied
 relief
@@ -5790,7 +5787,6 @@ rotor
 rotten
 rouge
 roughly
-roughness
 roundabout
 route
 routed
@@ -5905,6 +5901,7 @@ scarce
 scare
 scared
 scars
+scary
 scene
 scenery
 scenes
@@ -6027,6 +6024,7 @@ setup
 seven
 sex
 sexy
+shack
 shade
 shaded
 shades
@@ -6063,6 +6061,7 @@ sheets
 shelf
 shell
 shells
+shelter
 sheriff
 sherry
 shield
@@ -6124,6 +6123,7 @@ shrine
 shrink
 shrinking
 shrub
+shrug
 shrugged
 shut
 shuttle
@@ -6211,7 +6211,6 @@ skin
 skinned
 skins
 skip
-skipper
 skirt
 skull
 sky
@@ -6226,6 +6225,7 @@ slang
 slapped
 slate
 slated
+sled
 sleeping
 sleepy
 sleeve
@@ -6294,6 +6294,7 @@ snooker
 snout
 snow
 snowfall
+snowy
 soaked
 soap
 sober
@@ -6524,6 +6525,7 @@ started
 startled
 starts
 startup
+stash
 stat
 state
 stated
@@ -7131,7 +7133,6 @@ track
 tracked
 tracking
 tracks
-tract
 tractor
 tracts
 trade
@@ -7237,6 +7238,7 @@ tubes
 tubing
 tucked
 tug
+tulip
 tumor
 tumors
 tuna
@@ -7280,7 +7282,6 @@ typical
 typically
 typing
 tyranny
-tyrant
 ugly
 ulcer
 ulcers
@@ -7323,7 +7324,6 @@ unless
 unlike
 unlikely
 unlimited
-unmanned
 unmarried
 unnamed
 unnoticed
@@ -7503,6 +7503,7 @@ vulgar
 wade
 wage
 waged
+wager
 wages
 wagon
 wagons
@@ -7740,7 +7741,6 @@ yarn
 year
 years
 yeast
-yell
 yelled
 yelling
 yellow
