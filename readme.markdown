@@ -115,7 +115,7 @@ You can find additional [word lists I've created here](https://github.com/sts10/
 
 ## On licensing/usage
 
-The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under the [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0). See LICENSE-BOML file for more.
+The computer code of this project -- all files in the `src/` and `target/` directories, `justfile` file(s), `Cargo.toml` and `Cargo.lock` files, this README file, and any code examples in any documentation -- is licensed under [the Mozilla Public License v2.0](https://www.mozilla.org/en-US/MPL/2.0/). Please see LICENSE-MPL-2.markdown file for more information.
 
 The word lists within this repository (files within the `lists/` directory and the `source_list.txt` file, as well as any other word lists contained in this repository) are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>.
 
