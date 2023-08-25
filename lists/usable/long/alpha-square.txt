@@ -1539,7 +1539,6 @@ consume
 consumed
 consumer
 consuming
-cont
 contact
 contacted
 contacts
@@ -2124,7 +2123,6 @@ diver
 divers
 divert
 divide
-divided
 dividend
 divides
 dividing
@@ -2456,7 +2454,6 @@ episode
 epistle
 epithet
 epoch
-equal
 equals
 equated
 equation
@@ -3677,6 +3674,7 @@ interim
 interior
 intern
 interred
+interrupt
 intimacy
 intimate
 intrinsic
@@ -4594,6 +4592,7 @@ novelist
 novella
 novels
 novelty
+nowadays
 nowhere
 nuclear
 nuclei
@@ -4825,7 +4824,6 @@ panic
 pantheon
 panther
 pants
-pap
 papa
 papacy
 papal
@@ -6715,6 +6713,7 @@ styled
 styles
 styling
 sub
+subdivided
 subdued
 subgroup
 subject
@@ -7286,6 +7285,7 @@ undo
 undue
 unduly
 uneasy
+unequal
 uneven
 unfair
 unhappy

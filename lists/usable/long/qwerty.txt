@@ -1333,6 +1333,7 @@ coins
 coke
 cola
 cold
+coliseum
 collar
 collect
 collected
@@ -1402,7 +1403,6 @@ confesses
 congress
 connect
 consul
-cont
 contend
 content
 contest
@@ -4686,7 +4686,6 @@ panic
 pans
 panther
 pants
-pap
 papa
 paper
 par
@@ -5392,6 +5391,7 @@ reduce
 reduced
 reduces
 reducing
+redundant
 reef
 reefs
 reel

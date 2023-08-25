@@ -36,6 +36,7 @@ align
 alike
 allied
 allow
+ally
 almost
 along
 alt
@@ -231,7 +232,6 @@ comm
 common
 cone
 cons
-cont
 cook
 cool
 cop

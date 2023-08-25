@@ -1519,7 +1519,6 @@ consumer
 consumers
 consuming
 consumption
-cont
 contact
 contain
 contains
@@ -4823,7 +4822,6 @@ panel
 panels
 panic
 pants
-pap
 papa
 papal
 paper
@@ -5783,6 +5781,8 @@ rods
 roe
 rogue
 roles
+roller
+rolling
 rolls
 romance
 romantic
