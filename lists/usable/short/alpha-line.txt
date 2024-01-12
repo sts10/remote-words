@@ -36,7 +36,6 @@ align
 alike
 allied
 allow
-ally
 almost
 along
 alt
@@ -580,6 +579,7 @@ icon
 idea
 ideal
 idiom
+idiot
 idle
 idol
 implied
@@ -1022,7 +1022,6 @@ sit
 sits
 six
 ski
-skiing
 skill
 skilled
 skills
@@ -1136,6 +1135,7 @@ stuffed
 stump
 stunned
 stunt
+stupid
 sub
 sue
 sued

@@ -12,6 +12,7 @@ aboard
 abode
 abolish
 abolition
+abortion
 abound
 above
 abroad
@@ -23,6 +24,7 @@ absorb
 absorbed
 absurd
 abundant
+abuse
 abused
 abuses
 abusive
@@ -802,6 +804,8 @@ bolts
 bomb
 bombed
 bomber
+bombers
+bombing
 bombings
 bombs
 bond
@@ -1095,7 +1099,6 @@ cat
 catalog
 catch
 catcher
-catches
 catching
 cater
 cathode
@@ -1643,7 +1646,6 @@ counters
 countess
 counties
 counting
-countless
 country
 county
 coup
@@ -2123,6 +2125,7 @@ diver
 divers
 divert
 divide
+divided
 dividend
 divides
 dividing
@@ -2454,6 +2457,7 @@ episode
 epistle
 epithet
 epoch
+equal
 equals
 equated
 equation
@@ -2462,9 +2466,11 @@ equator
 equipped
 equity
 erase
+erect
 erected
 eroded
 erosion
+erotic
 erroneous
 errors
 erupted
@@ -2472,6 +2478,7 @@ eruption
 eruptions
 escape
 escaped
+escort
 essay
 essays
 estate
@@ -2481,6 +2488,7 @@ ether
 ethic
 ethical
 ethics
+ethnic
 ethnicity
 ethos
 euro
@@ -2613,7 +2621,6 @@ famine
 fan
 fancy
 fans
-fantastic
 fantasy
 far
 fare
@@ -2983,6 +2990,7 @@ funding
 funds
 fungal
 fungi
+fungus
 funk
 funny
 furious
@@ -3139,7 +3147,6 @@ gracious
 graded
 grades
 grading
-graft
 grain
 grains
 grand
@@ -3148,7 +3155,6 @@ grants
 grape
 graph
 graphic
-graphs
 grasp
 grass
 grave
@@ -3493,6 +3499,7 @@ identical
 identity
 ideology
 idiom
+idiot
 idle
 idol
 idols
@@ -3627,6 +3634,7 @@ inputs
 inquire
 inquired
 inquiry
+insane
 insanity
 insect
 insects
@@ -3674,7 +3682,6 @@ interim
 interior
 intern
 interred
-interrupt
 intimacy
 intimate
 intrinsic
@@ -3878,7 +3885,6 @@ lasts
 latent
 later
 latest
-latitude
 latter
 lattice
 lauded
@@ -4228,7 +4234,6 @@ mayors
 maze
 mead
 meadow
-meadows
 meal
 meals
 mean
@@ -4449,7 +4454,6 @@ motto
 mound
 mounds
 mountain
-mountainous
 mountains
 mounting
 mourning
@@ -4591,7 +4595,6 @@ novelist
 novella
 novels
 novelty
-nowadays
 nowhere
 nuclear
 nuclei
@@ -4760,7 +4763,6 @@ outset
 outside
 outsider
 outsiders
-outskirts
 outspoken
 outward
 oval
@@ -4851,7 +4853,6 @@ passion
 passions
 passive
 passport
-password
 past
 pasta
 paste
@@ -5533,7 +5534,6 @@ receiver
 receiving
 recent
 reception
-receptions
 receptor
 recess
 recession
@@ -5676,7 +5676,6 @@ rented
 reopen
 reopened
 repair
-repaired
 repay
 repeal
 repeat
@@ -6036,7 +6035,6 @@ sees
 seismic
 seize
 seized
-seizure
 seldom
 select
 selects
@@ -6266,6 +6264,7 @@ skinned
 skins
 skip
 skirt
+skirts
 skull
 sky
 slab
@@ -6339,6 +6338,7 @@ snakes
 snap
 snapped
 snatched
+sniper
 snooker
 snout
 snow
@@ -6580,7 +6580,6 @@ stays
 steady
 steak
 steal
-steals
 steam
 steamed
 steamer
@@ -6707,13 +6706,13 @@ stump
 stunned
 stunning
 stunt
+stupid
 sturdy
 style
 styled
 styles
 styling
 sub
-subdivided
 subdued
 subgroup
 subject
@@ -7095,6 +7094,7 @@ tornado
 torpedo
 torque
 tort
+torture
 tortured
 toss
 tossed
@@ -7285,7 +7285,6 @@ undo
 undue
 unduly
 uneasy
-unequal
 uneven
 unfair
 unhappy
@@ -7340,6 +7339,7 @@ urged
 urgent
 urges
 urging
+urine
 usable
 usage
 useful
@@ -7349,6 +7349,7 @@ users
 usher
 usually
 uterine
+uterus
 utility
 utilize
 utilized
@@ -7537,7 +7538,6 @@ wasp
 wasps
 waste
 wasted
-wastes
 wasting
 watch
 watched

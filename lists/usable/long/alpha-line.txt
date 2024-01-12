@@ -12,6 +12,7 @@ abode
 abolish
 abolished
 abolition
+abortion
 abound
 above
 abroad
@@ -25,6 +26,7 @@ absorb
 absorbed
 absorption
 absurd
+abuse
 abused
 abuses
 acacia
@@ -125,7 +127,6 @@ adult
 adults
 advent
 advice
-advise
 aerial
 aerobic
 affair
@@ -228,7 +229,6 @@ aluminum
 alumni
 ambient
 ambush
-amen
 amend
 amended
 amid
@@ -248,7 +248,6 @@ amplitude
 amused
 amusing
 analog
-analyst
 ancestor
 ancestors
 ancestry
@@ -363,7 +362,6 @@ artists
 artwork
 artworks
 ascent
-ashamed
 ashes
 ashore
 asleep
@@ -776,6 +774,8 @@ bolts
 bomb
 bombed
 bomber
+bombers
+bombing
 bombs
 bond
 bonded
@@ -1060,7 +1060,6 @@ castles
 casual
 cat
 catch
-catching
 category
 cater
 cathode
@@ -1313,7 +1312,6 @@ coached
 coaches
 coaching
 coal
-coarse
 coast
 coasts
 coat
@@ -2093,7 +2091,6 @@ divers
 divert
 divide
 divided
-dividend
 divides
 dividing
 divine
@@ -2209,7 +2206,6 @@ drying
 dual
 dub
 dubbed
-duchess
 duck
 ducks
 duct
@@ -2398,7 +2394,6 @@ enhance
 enhanced
 enjoy
 enjoyed
-enjoying
 enjoys
 enlarge
 enlarged
@@ -2444,14 +2439,17 @@ equals
 equipped
 equity
 eras
+erect
 eroded
 erosion
+erotic
 erroneous
 errors
 erupted
 eruption
 eruptions
 escape
+escort
 espionage
 essay
 essence
@@ -2462,6 +2460,7 @@ ether
 ethic
 ethical
 ethics
+ethnic
 ethos
 euro
 euros
@@ -2492,7 +2491,6 @@ expect
 expelled
 expert
 experts
-expired
 explain
 exploded
 exploit
@@ -2948,6 +2946,7 @@ funding
 funds
 fungal
 fungi
+fungus
 funk
 funny
 furious
@@ -3486,6 +3485,7 @@ ideological
 ideologies
 ideology
 idiom
+idiot
 idle
 idol
 idols
@@ -3555,7 +3555,6 @@ improved
 improves
 improving
 impulse
-impulses
 impurity
 inability
 incense
@@ -3640,6 +3639,7 @@ inputs
 inquire
 inquired
 inquiry
+insane
 insect
 insects
 insert
@@ -4665,7 +4665,6 @@ officers
 offices
 officials
 offset
-offshore
 offspring
 often
 okay
@@ -5131,7 +5130,6 @@ portrait
 portraits
 portray
 portrays
-positioned
 positions
 possess
 possessed
@@ -5398,6 +5396,7 @@ pulls
 pulmonary
 pulp
 pulpit
+pulses
 pump
 pumped
 pumping
@@ -5669,7 +5668,6 @@ renders
 renew
 renowned
 rent
-rental
 rented
 rents
 reopen
@@ -5693,7 +5691,6 @@ reproach
 reputed
 reset
 reside
-resides
 resign
 resigned
 resin
@@ -5949,6 +5946,7 @@ seal
 sealed
 seals
 seam
+seamen
 search
 sears
 seas
@@ -6162,7 +6160,6 @@ signifies
 signify
 silence
 silent
-silently
 silica
 silicon
 silk
@@ -6304,6 +6301,7 @@ snake
 snakes
 snap
 snapped
+sniper
 snooker
 snout
 snow
@@ -6693,6 +6691,7 @@ stump
 stunned
 stunning
 stunt
+stupid
 sturdy
 styled
 styles
@@ -6786,7 +6785,6 @@ supposedly
 supposing
 suppress
 suppressed
-suppression
 supreme
 surely
 surf
@@ -6947,7 +6945,6 @@ tempo
 tempted
 tempting
 tenant
-tenants
 tender
 tending
 tendon
@@ -7103,6 +7100,7 @@ tornado
 torpedo
 torque
 tort
+torture
 tortured
 toss
 tossed
@@ -7376,6 +7374,7 @@ urgent
 urgently
 urges
 urging
+urine
 usable
 usage
 useful
@@ -7384,6 +7383,7 @@ user
 usher
 usually
 uterine
+uterus
 utility
 utilize
 utmost

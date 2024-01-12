@@ -5,6 +5,7 @@ ability
 aboard
 abode
 abolish
+abortion
 abound
 above
 abroad
@@ -16,6 +17,7 @@ absolute
 absorb
 abstract
 absurd
+abuse
 abused
 abuses
 acacia
@@ -213,7 +215,6 @@ amazed
 ambient
 ambition
 ambush
-amen
 amend
 amended
 amid
@@ -548,7 +549,6 @@ basal
 baseball
 based
 baseline
-baseman
 bases
 basic
 basics
@@ -786,6 +786,8 @@ bolts
 bomb
 bombed
 bomber
+bombers
+bombing
 bombs
 bond
 bonded
@@ -1333,7 +1335,6 @@ coins
 coke
 cola
 cold
-coliseum
 collar
 collect
 collected
@@ -1915,7 +1916,6 @@ dirty
 disagree
 disagreed
 disaster
-disasters
 discard
 discern
 disco
@@ -1939,7 +1939,6 @@ divert
 diverted
 divide
 divided
-divides
 divine
 diving
 dock
@@ -2266,9 +2265,11 @@ equated
 equipped
 equity
 erase
+erect
 erected
 eroded
 erosion
+erotic
 errors
 erupted
 eruption
@@ -2276,6 +2277,7 @@ escape
 escaped
 escapes
 escaping
+escort
 escorted
 essay
 essays
@@ -2294,6 +2296,7 @@ ether
 ethic
 ethical
 ethics
+ethnic
 ethos
 etymology
 euro
@@ -2352,7 +2355,6 @@ excuse
 excused
 excuses
 execute
-executing
 exempt
 exercise
 exert
@@ -2403,7 +2405,6 @@ extreme
 extremes
 extremity
 eye
-eyebrows
 eyelids
 eyes
 fabric
@@ -2840,6 +2841,7 @@ funds
 funeral
 fungal
 fungi
+fungus
 funk
 funny
 furious
@@ -3055,7 +3057,6 @@ griffin
 grill
 grim
 grin
-grinding
 grinned
 grinning
 grip
@@ -3152,7 +3153,6 @@ hardship
 hardware
 hardy
 harmful
-harmless
 harmony
 harness
 harrow
@@ -3388,6 +3388,7 @@ identify
 identity
 ideology
 idiom
+idiot
 idle
 idol
 idols
@@ -3415,7 +3416,6 @@ immigrant
 immigrated
 imminent
 immoral
-immortal
 immune
 immunity
 impact
@@ -3510,6 +3510,7 @@ inputs
 inquire
 inquired
 inquiry
+insane
 insanity
 insect
 insects
@@ -3939,7 +3940,6 @@ locally
 locals
 locate
 located
-locating
 location
 locker
 locking
@@ -4073,7 +4073,7 @@ market
 marking
 markings
 marks
-marquess
+married
 marries
 marrow
 marry
@@ -4091,7 +4091,6 @@ masked
 masking
 masks
 mason
-masonry
 mass
 massacre
 massacres
@@ -4303,6 +4302,7 @@ morally
 morals
 morning
 morrow
+mortal
 mortar
 mortgage
 mortgages
@@ -5391,7 +5391,6 @@ reduce
 reduced
 reduces
 reducing
-redundant
 reef
 reefs
 reel
@@ -5507,7 +5506,6 @@ repay
 repeal
 repeat
 repeated
-repeats
 replace
 replaced
 replaces
@@ -5536,7 +5534,6 @@ rescue
 rescued
 rescues
 research
-researched
 researcher
 resemble
 reservoir
@@ -5902,6 +5899,8 @@ seal
 sealed
 seals
 seam
+seamen
+searched
 searches
 searching
 sears
@@ -6085,7 +6084,6 @@ shire
 shirt
 shirts
 shock
-shocks
 shoe
 shoes
 shone
@@ -6277,6 +6275,7 @@ snails
 snake
 snakes
 snap
+sniper
 snooker
 snout
 snow
@@ -6621,6 +6620,7 @@ stump
 stunned
 stunning
 stunt
+stupid
 sturdy
 styled
 styles
@@ -7016,7 +7016,6 @@ toilets
 token
 tokens
 told
-tolerant
 tolerate
 tolerated
 tomato
@@ -7038,12 +7037,12 @@ torch
 torn
 torque
 tort
+torture
 tortured
 toss
 tossed
 total
 totally
-totals
 touch
 touched
 touches
@@ -7274,7 +7273,6 @@ unknown
 unless
 unlike
 unlimited
-unmarried
 unnamed
 unnecessary
 unopposed
@@ -7313,6 +7311,7 @@ urgent
 urgently
 urges
 urging
+urine
 usable
 usage
 useful
@@ -7321,6 +7320,7 @@ user
 usher
 usual
 uterine
+uterus
 utilities
 utility
 utilize
