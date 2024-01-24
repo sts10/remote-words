@@ -229,6 +229,7 @@ aluminum
 alumni
 ambient
 ambush
+amen
 amend
 amended
 amid
@@ -5946,7 +5947,6 @@ seal
 sealed
 seals
 seam
-seamen
 search
 sears
 seas

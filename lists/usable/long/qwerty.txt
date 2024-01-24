@@ -215,6 +215,7 @@ amazed
 ambient
 ambition
 ambush
+amen
 amend
 amended
 amid
@@ -5899,7 +5900,6 @@ seal
 sealed
 seals
 seam
-seamen
 searched
 searches
 searching
