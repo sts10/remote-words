@@ -679,7 +679,6 @@ benefit
 benefits
 benign
 bent
-berg
 berries
 berry
 berth
@@ -5676,6 +5675,7 @@ rented
 reopen
 reopened
 repair
+repaired
 repay
 repeal
 repeat

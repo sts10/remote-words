@@ -650,7 +650,6 @@ benefited
 benefits
 benign
 bent
-berg
 berries
 berry
 berth
@@ -4666,6 +4665,7 @@ officers
 offices
 officials
 offset
+offshore
 offspring
 often
 okay
