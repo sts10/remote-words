@@ -1916,6 +1916,7 @@ dirty
 disagree
 disagreed
 disaster
+disasters
 discard
 discern
 disco
@@ -4074,7 +4075,6 @@ market
 marking
 markings
 marks
-married
 marries
 marrow
 marry
@@ -4092,6 +4092,7 @@ masked
 masking
 masks
 mason
+masonry
 mass
 massacre
 massacres
@@ -4787,8 +4788,6 @@ person
 perverse
 pest
 pests
-peter
-peters
 petition
 petrol
 pets
@@ -7273,6 +7272,7 @@ unknown
 unless
 unlike
 unlimited
+unmarried
 unnamed
 unnecessary
 unopposed

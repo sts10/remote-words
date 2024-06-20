@@ -2394,6 +2394,7 @@ enhance
 enhanced
 enjoy
 enjoyed
+enjoying
 enjoys
 enlarge
 enlarged
@@ -4919,8 +4920,6 @@ persuade
 persuaded
 pest
 pests
-peter
-peters
 petrol
 pets
 petty
@@ -6785,6 +6784,7 @@ supposedly
 supposing
 suppress
 suppressed
+suppression
 supreme
 surely
 surf

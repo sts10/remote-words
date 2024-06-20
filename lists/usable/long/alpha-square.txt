@@ -1645,6 +1645,7 @@ counters
 countess
 counties
 counting
+countless
 country
 county
 coup
@@ -4762,6 +4763,7 @@ outset
 outside
 outsider
 outsiders
+outskirts
 outspoken
 outward
 oval
@@ -4938,7 +4940,6 @@ persons
 pest
 pesticide
 pests
-peter
 petition
 petrol
 pets
@@ -6264,7 +6265,6 @@ skinned
 skins
 skip
 skirt
-skirts
 skull
 sky
 slab
