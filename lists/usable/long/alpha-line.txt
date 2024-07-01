@@ -1383,7 +1383,6 @@ comet
 comfort
 comic
 comics
-comm
 command
 commanded
 commence
@@ -4684,6 +4683,7 @@ ongoing
 onion
 onions
 online
+only
 onset
 opaque
 opener

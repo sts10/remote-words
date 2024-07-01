@@ -1407,7 +1407,6 @@ comedy
 comet
 comic
 comics
-comm
 command
 commanded
 commander
@@ -1645,7 +1644,6 @@ counters
 countess
 counties
 counting
-countless
 country
 county
 coup
@@ -4682,6 +4680,7 @@ ongoing
 onion
 onions
 online
+only
 onset
 onward
 opaque
@@ -4763,7 +4762,6 @@ outset
 outside
 outsider
 outsiders
-outskirts
 outspoken
 outward
 oval
@@ -6265,6 +6263,7 @@ skinned
 skins
 skip
 skirt
+skirts
 skull
 sky
 slab
@@ -7296,6 +7295,7 @@ unique
 unit
 uniting
 units
+unity
 unjust
 unknown
 unless

@@ -227,7 +227,6 @@ color
 colors
 colt
 come
-comm
 common
 cone
 cons
@@ -1022,6 +1021,7 @@ sit
 sits
 six
 ski
+skiing
 skill
 skilled
 skills
