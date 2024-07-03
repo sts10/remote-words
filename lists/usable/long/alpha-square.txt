@@ -2621,7 +2621,6 @@ fancy
 fans
 fantasy
 far
-fare
 farm
 farms
 fascism
@@ -7592,6 +7591,7 @@ welcomed
 welcoming
 weld
 welding
+welfare
 wells
 welsh
 wet

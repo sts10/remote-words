@@ -7014,7 +7014,6 @@ toilets
 token
 tokens
 told
-tolerant
 tolerate
 tolerated
 tomato
@@ -7585,6 +7584,7 @@ weights
 weird
 weld
 welding
+welfare
 wells
 welsh
 westbound
