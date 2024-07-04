@@ -1644,6 +1644,7 @@ counters
 countess
 counties
 counting
+countless
 country
 county
 coup
@@ -3330,7 +3331,6 @@ helper
 helping
 helpless
 helps
-herald
 herb
 herbal
 herbs
@@ -4761,6 +4761,7 @@ outset
 outside
 outsider
 outsiders
+outskirts
 outspoken
 outward
 oval
@@ -6262,7 +6263,6 @@ skinned
 skins
 skip
 skirt
-skirts
 skull
 sky
 slab

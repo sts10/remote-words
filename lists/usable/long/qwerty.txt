@@ -3230,7 +3230,6 @@ helpful
 helping
 helpless
 helps
-herald
 herb
 herbal
 herbs
@@ -7014,6 +7013,7 @@ toilets
 token
 tokens
 told
+tolerant
 tolerate
 tolerated
 tomato
