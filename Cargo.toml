@@ -1,7 +1,7 @@
 [package]
 name = "remote-words-code"
-version = "0.3.3"
+version = "0.3.4"
 edition = "2021"
-license = "BlueOak-1.0.0"
+license = "MPL-2.0"
 
 [dependencies]
