@@ -36,6 +36,7 @@ align
 alike
 allied
 allow
+ally
 almost
 along
 alt
@@ -511,7 +512,6 @@ half
 hall
 halo
 ham
-hank
 headed
 heal
 heap

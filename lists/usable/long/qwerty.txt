@@ -3139,7 +3139,6 @@ hang
 hangar
 hanging
 hangs
-hank
 happen
 happier
 happily
@@ -3940,6 +3939,7 @@ locally
 locals
 locate
 located
+locating
 location
 locker
 locking

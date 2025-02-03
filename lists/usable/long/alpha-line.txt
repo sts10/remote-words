@@ -3219,7 +3219,6 @@ handy
 hang
 hangar
 hangs
-hank
 happen
 happened
 happens
@@ -5691,6 +5690,7 @@ reproach
 reputed
 reset
 reside
+resides
 resign
 resigned
 resin

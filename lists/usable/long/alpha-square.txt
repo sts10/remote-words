@@ -2620,6 +2620,7 @@ famine
 fan
 fancy
 fans
+fantastic
 fantasy
 far
 farm
@@ -3256,7 +3257,6 @@ handy
 hang
 hangar
 hangs
-hank
 happen
 happened
 happening
