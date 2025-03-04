@@ -3922,6 +3922,7 @@ learner
 learners
 learning
 learns
+lease
 leases
 leave
 leaving
@@ -5032,7 +5033,6 @@ plead
 pleaded
 pleading
 pleas
-please
 pleased
 pleasing
 pleasure

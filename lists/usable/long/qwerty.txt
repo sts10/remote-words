@@ -2355,6 +2355,7 @@ excuse
 excused
 excuses
 execute
+executing
 exempt
 exercise
 exert
@@ -4910,7 +4911,6 @@ plead
 pleaded
 pleas
 pleasant
-please
 pleased
 pleasing
 pleasure
