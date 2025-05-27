@@ -5116,7 +5116,6 @@ populous
 porcelain
 porch
 pork
-porosity
 porous
 portable
 portal
@@ -5667,6 +5666,7 @@ renders
 renew
 renowned
 rent
+rental
 rented
 rents
 reopen

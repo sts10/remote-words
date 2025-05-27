@@ -5128,7 +5128,6 @@ populist
 populous
 porch
 pork
-porosity
 porous
 portable
 portal
@@ -5532,6 +5531,7 @@ receiver
 receiving
 recent
 reception
+receptions
 receptor
 recess
 recession
